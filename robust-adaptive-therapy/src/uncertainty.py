@@ -44,6 +44,17 @@ PARAM_NAMES = [
     "T0_plus", "T0_prod", "T0_minus",
 ]
 
+# Natural-space bounds applied after exp(log θ) in WassersteinUncertaintySet.sample_perturbed_params
+WASSERSTEIN_NATURAL_BOUNDS: dict[str, tuple[float, float]] = {
+    "r_plus":    (1e-4, 0.05),
+    "r_prod":    (1e-4, 0.05),
+    "r_minus":   (1e-4, 0.10),
+    "delta_plus": (0.01, 1.0),
+    "T0_plus":   (100, 20000),
+    "T0_prod":   (10, 5000),
+    "T0_minus":  (1, 1000),
+}
+
 
 # ── EllipsoidalUncertaintySet ─────────────────────────────────────────────────
 
@@ -254,8 +265,12 @@ class WassersteinUncertaintySet:
         Calibration via cross-validation is recommended for Phase 3.
         """
         scale = float(np.std(self.samples) * np.sqrt(self.d))
-        eps   = scale * np.sqrt(np.log(1.0 / (1.0 - confidence)) / max(self.n, 1))
-        return float(eps)
+        raw_epsilon = scale * np.sqrt(np.log(1.0 / (1.0 - confidence)) / max(self.n, 1))
+        # Cap epsilon at 0.5 to prevent biologically impossible samples.
+        # The finite-sample bound is conservative; this keeps perturbations
+        # within ~0.5 log-units = roughly 1.65x multiplicative factor.
+        epsilon = min(float(raw_epsilon), 0.5)
+        return float(epsilon)
 
     # ------------------------------------------------------------------
 
@@ -284,7 +299,34 @@ class WassersteinUncertaintySet:
         seed:      int = 0,
     ) -> np.ndarray:
         """Sample perturbed parameters in parameter space (exp of log-samples)."""
-        return np.exp(self.sample_perturbed(n_samples, seed=seed))
+        log_samp = self.sample_perturbed(n_samples, seed=seed)
+        nat = np.exp(log_samp)
+        n_clip = 0
+        for i in range(n_samples):
+            row_clipped = False
+            for j, name in enumerate(self.param_names):
+                lo, hi = WASSERSTEIN_NATURAL_BOUNDS[name]
+                before = float(nat[i, j])
+                after = float(np.clip(before, lo, hi))
+                if not np.isclose(before, after):
+                    nat[i, j] = after
+                    row_clipped = True
+            if row_clipped:
+                n_clip += 1
+        frac = n_clip / max(n_samples, 1)
+        if frac > 0.05:
+            log.warning(
+                "Wasserstein sample_perturbed_params: %.1f%% of samples required bound clipping (>5%%).",
+                100.0 * frac,
+            )
+        else:
+            log.info(
+                "Wasserstein sample_perturbed_params: %d/%d samples required clipping (%.1f%%).",
+                n_clip,
+                n_samples,
+                100.0 * frac,
+            )
+        return nat
 
     # ------------------------------------------------------------------
 

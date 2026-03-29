@@ -35,7 +35,7 @@ from src.psa_model import PSAModel
 # Configuration
 # ---------------------------------------------------------------------------
 N_PATIENTS = 50
-T_DAYS     = 1825          # 5 years
+T_MAX_DAYS = 3650          # simulation horizon (10 years)
 DT         = 1.0           # 1-day time resolution
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "synthetic"
 
@@ -157,7 +157,7 @@ class AdaptiveSchedule:
 def simulate_adaptive(
     model: LotkaVolterraModel,
     psa_model: PSAModel,
-    t_max: float = T_DAYS,
+    t_max: float = T_MAX_DAYS,
     stop_fraction: float = AT_STOP_THRESHOLD,
     restart_fraction: float = AT_RESTART_THRESHOLD,
 ) -> pd.DataFrame:
@@ -226,7 +226,7 @@ def simulate_adaptive(
 def simulate_mtd(
     model: LotkaVolterraModel,
     psa_model: PSAModel,
-    t_max: float = T_DAYS,
+    t_max: float = T_MAX_DAYS,
 ) -> pd.DataFrame:
     """
     Simulate MTD (always-on) protocol.
@@ -335,7 +335,7 @@ def main() -> None:
     print("SYNTHETIC COHORT SUMMARY")
     print("=" * 65)
     print(f"  N patients         : {N_PATIENTS}")
-    print(f"  Simulation horizon : {T_DAYS} days ({T_DAYS / 365:.1f} years)")
+    print(f"  Simulation horizon : {T_MAX_DAYS} days ({T_MAX_DAYS / 365:.1f} years)")
     print()
     print(f"  TTP adaptive  — mean: {df_summary['ttp_adaptive'].mean():.0f} d  "
           f"median: {df_summary['ttp_adaptive'].median():.0f} d")

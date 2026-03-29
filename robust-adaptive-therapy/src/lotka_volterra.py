@@ -237,14 +237,22 @@ class LotkaVolterraModel:
         progression_threshold: float = 2.0,
     ) -> float:
         """
-        First time at which total_cells exceeds ``progression_threshold``
-        times the initial total cell count.
+        Earliest time at which **either** progression criterion holds:
+
+        **A.** ``total_cells > progression_threshold * initial_total`` (default
+        threshold 2.0).
+
+        **B.** Resistant fraction ``T_minus / total_cells > 0.6`` and
+        ``total_cells > 0.05 * initial_total`` (avoids spurious ratios when
+        total is tiny).
+
+        Returns ``np.inf`` if neither is met in the simulated window.
 
         Parameters
         ----------
         simulation_result : dict returned by :meth:`simulate`
         progression_threshold : float
-            Default 2.0 → progression when tumor doubles from baseline.
+            Multiplier on initial total for criterion A.
 
         Returns
         -------
@@ -262,7 +270,12 @@ class LotkaVolterraModel:
             return np.inf
 
         threshold = progression_threshold * initial_total
-        mask = total > threshold
+        T_minus = simulation_result["T_minus"]
+        with np.errstate(divide="ignore", invalid="ignore"):
+            t_minus_fraction = T_minus / np.maximum(total, 1e-300)
+        mask_a = total > threshold
+        mask_b = (t_minus_fraction > 0.6) & (total > 0.05 * initial_total)
+        mask = mask_a | mask_b
         if not np.any(mask):
             return np.inf
 

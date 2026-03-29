@@ -54,7 +54,7 @@ from src.utils import (
 # ---------------------------------------------------------------------------
 SYNTHETIC_DIR = Path(__file__).parent.parent / "data" / "synthetic"
 FIGURES_DIR   = SYNTHETIC_DIR / "figures"
-T_DAYS        = 1825.0   # 5 years
+T_MAX_DAYS    = 3650.0   # simulation horizon (10 years)
 
 # Protocol thresholds (fraction of baseline PSA)
 PROTOCOLS = {
@@ -99,7 +99,7 @@ def run_adaptive_protocol(
     psa_model: PSAModel,
     stop_frac: float,
     restart_frac: float,
-    t_max: float = T_DAYS,
+    t_max: float = T_MAX_DAYS,
 ) -> dict:
     """
     Simulate an adaptive protocol day-by-day.
@@ -173,7 +173,7 @@ def run_adaptive_protocol(
 def run_mtd_protocol(
     model: LotkaVolterraModel,
     psa_model: PSAModel,
-    t_max: float = T_DAYS,
+    t_max: float = T_MAX_DAYS,
 ) -> dict:
     """Simulate MTD (continuous treatment)."""
     t_eval = np.arange(0, int(t_max) + 1, 1.0)
@@ -223,7 +223,7 @@ def run_mtd_protocol(
 def run_oracle_protocol(
     model: LotkaVolterraModel,
     psa_model: PSAModel,
-    t_max: float = T_DAYS,
+    t_max: float = T_MAX_DAYS,
 ) -> dict:
     """Grid-search for the (stop, restart) thresholds that maximize TTP."""
     best_result = None
@@ -342,7 +342,7 @@ def main() -> None:
 
     # 2. Scatter: AT vs MTD
     fig_scatter = plot_ttp_scatter(ttp_np["adaptive"], ttp_np["mtd"],
-                                   max_days=T_DAYS)
+                                   max_days=T_MAX_DAYS)
     fig_scatter.savefig(FIGURES_DIR / "ttp_scatter.png", dpi=150, bbox_inches="tight")
     plt.close(fig_scatter)
 
@@ -412,8 +412,8 @@ def main() -> None:
                 sched = AdaptiveDrugSchedule(bp, stop, restart)
                 drug_fn = sched
 
-            t_eval = np.linspace(0, T_DAYS, 2000)
-            full_sim = example_model.simulate((0, T_DAYS), t_eval, drug_fn)
+            t_eval = np.linspace(0, T_MAX_DAYS, 2000)
+            full_sim = example_model.simulate((0, T_MAX_DAYS), t_eval, drug_fn)
             fig_traj = plot_trajectory(
                 full_sim,
                 title=f"Patient 000 — {pname.upper()} cell populations",

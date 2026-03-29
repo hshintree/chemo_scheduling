@@ -13,17 +13,25 @@ python scripts/02_fit_patient_parameters.py
 # Fit a specific real patient CSV:
 python scripts/02_fit_patient_parameters.py --patient data/raw/patient_01.csv
 
+# Fit all adaptive-arm patients from Cunningham TrialPatientData.xlsx:
+python scripts/02_fit_patient_parameters.py --trial-data
+# (expects data/raw/TrialPatientData.xlsx or use --trial-xlsx PATH)
+
 Outputs
 -------
 For each patient: a fitted parameter CSV + residual plot saved to
 data/processed/patient_{id}_fit.{csv,png}
+
+With --trial-data: one CSV + PNG per adaptive patient under
+data/processed/trial_fits/{P_id}_fit_params.csv and {P_id}_fit.png
 """
 
 from __future__ import annotations
 
-import sys
-import os
 import argparse
+import os
+import re
+import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
@@ -232,6 +240,94 @@ def fit_patient(
 
 
 # ---------------------------------------------------------------------------
+# Cunningham trial Excel (TrialPatientData.xlsx)
+# ---------------------------------------------------------------------------
+
+def load_trial_patient(xlsx_path: Path | str, sheet_name: str, patient_id: str) -> dict:
+    """
+    Load a single patient's data from the wide-format Excel file.
+
+    Returns dict with keys: days, psa, psa_norm, on_treatment, patient_id, psa_baseline
+    """
+    xlsx_path = Path(xlsx_path)
+    df_raw = pd.read_excel(xlsx_path, sheet_name=sheet_name, header=None)
+    pid = str(patient_id).strip()
+    for col in range(df_raw.shape[1]):
+        if str(df_raw.iloc[0, col]).strip() == pid:
+            sub = df_raw.iloc[2:, col : col + 4].copy()
+            sub.columns = ["Days", "PSA", "Abi", "relPSA"]
+            sub = sub[pd.to_numeric(sub["Days"], errors="coerce").notna()].copy()
+            sub["Days"] = sub["Days"].astype(float)
+            sub["PSA"] = sub["PSA"].astype(float)
+            sub["Abi"] = sub["Abi"].astype(float)
+            sub = sub.reset_index(drop=True)
+            psa0 = float(sub["PSA"].iloc[0])
+            sub["psa_norm"] = sub["PSA"] / psa0 if psa0 > 0 else sub["PSA"]
+            return {
+                "days": sub["Days"].values,
+                "psa": sub["PSA"].values,
+                "psa_norm": sub["psa_norm"].values,
+                "on_treatment": sub["Abi"].values.astype(int),
+                "patient_id": pid,
+                "psa_baseline": psa0,
+            }
+    raise ValueError(f"Patient {patient_id} not found in sheet {sheet_name}")
+
+
+def list_adaptive_patient_ids(xlsx_path: Path | str) -> list[str]:
+    """Patient IDs in row 0 of the Adaptive sheet (P1001, …)."""
+    df_raw = pd.read_excel(xlsx_path, sheet_name="Adaptive", header=None)
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for col in range(df_raw.shape[1]):
+        cell = df_raw.iloc[0, col]
+        if pd.isna(cell):
+            continue
+        s = str(cell).strip()
+        if re.match(r"^P\d+$", s) and s not in seen:
+            seen.add(s)
+            ordered.append(s)
+    return ordered
+
+
+def run_trial_adaptive_fits(xlsx_path: Path, n_restarts: int = N_RESTARTS) -> None:
+    """
+    Fit all adaptive-arm patients from TrialPatientData.xlsx; save CSV + PNG per patient.
+    """
+    trial_dir = PROCESSED_DIR / "trial_fits"
+    trial_dir.mkdir(parents=True, exist_ok=True)
+    ids = list_adaptive_patient_ids(xlsx_path)
+    if not ids:
+        print("No P-prefixed patient IDs found in row 0 of sheet 'Adaptive'.")
+        return
+    print(f"Fitting {len(ids)} adaptive patients from {xlsx_path.name} …")
+    for pid in tqdm(ids, desc="Trial fits"):
+        data = load_trial_patient(xlsx_path, "Adaptive", pid)
+        days = data["days"]
+        psa_norm = data["psa_norm"]
+        on_tx = data["on_treatment"]
+        best_params, rmse, r2, psa_pred = fit_patient(
+            days, psa_norm, on_tx, n_restarts=n_restarts, verbose=False
+        )
+        flat = {k: v for k, v in best_params.items() if k != "alpha"}
+        flat["patient_id"] = pid
+        pd.DataFrame([flat]).to_csv(trial_dir / f"{pid}_fit_params.csv", index=False)
+
+        drug_fn = _build_drug_schedule(days, on_tx)
+        fig = plot_psa(
+            t=days,
+            psa_model=psa_pred,
+            psa_observed=psa_norm,
+            t_observed=days,
+            drug=np.array([float(drug_fn(float(t))) for t in days]),
+            title=f"{pid} — trial fit (RMSE={rmse:.4f}, R²={r2:.3f})",
+        )
+        fig.savefig(trial_dir / f"{pid}_fit.png", dpi=120, bbox_inches="tight")
+        plt.close(fig)
+    print(f"Saved fits under {trial_dir}/")
+
+
+# ---------------------------------------------------------------------------
 # Validation against synthetic ground truth
 # ---------------------------------------------------------------------------
 
@@ -329,9 +425,32 @@ def main() -> None:
         default=5,
         help="Number of synthetic patients to validate against (default 5).",
     )
+    parser.add_argument(
+        "--trial-data",
+        action="store_true",
+        help="Fit all adaptive patients from Cunningham TrialPatientData.xlsx.",
+    )
+    parser.add_argument(
+        "--trial-xlsx",
+        type=str,
+        default=None,
+        help="Path to TrialPatientData.xlsx (default: data/raw/TrialPatientData.xlsx).",
+    )
     args = parser.parse_args()
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+
+    if args.trial_data:
+        root = Path(__file__).resolve().parent.parent
+        xlsx = Path(args.trial_xlsx) if args.trial_xlsx else root / "data" / "raw" / "TrialPatientData.xlsx"
+        if not xlsx.is_file():
+            print(
+                f"Trial Excel not found: {xlsx}\n"
+                "Place TrialPatientData.xlsx under data/raw/ or pass --trial-xlsx PATH."
+            )
+            sys.exit(1)
+        run_trial_adaptive_fits(xlsx)
+        return
 
     if args.patient is not None:
         # --- Fit a single real patient CSV ---
