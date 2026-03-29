@@ -1,2 +1,167 @@
-# chemo_scheduling
-Optimal Chemotherapy Scheduling
+# Robust Adaptive Therapy for mCRPC
+
+## Scientific Motivation
+
+Metastatic castration-resistant prostate cancer (mCRPC) is uniformly fatal under
+standard maximum-tolerated-dose (MTD) chemotherapy because continuous selective
+pressure drives the tumor toward a drug-resistant phenotype. In a landmark 2017
+*Nature Communications* paper, Gatenby and Zhang introduced **adaptive therapy** (AT):
+a feedback-controlled dosing strategy that deliberately leaves some drug-sensitive
+cells alive to competitively suppress resistant cells via ecological competition.
+The Zhang *et al.* (2022, *eLife*) randomized pilot trial confirmed that AT roughly
+doubled progression-free survival in 16 mCRPC patients compared to matched MTD
+controls, while allowing patients to spend ~50% of their time off abiraterone.
+
+The mathematical backbone of this work is a three-species competitive
+**Lotka-Volterra ODE** model with populations T⁺ (androgen-dependent),
+Tᵖ (androgen-producing), and T⁻ (androgen-independent). The clinical decision
+rule is simple: stop abiraterone when PSA falls to ≤50% of baseline, restart when
+PSA returns to baseline. This project extends that baseline model toward a
+**distributionally robust optimization (DRO)** framework: rather than designing
+treatment policies that work well for a single best-fit parameter set, we seek
+policies that are optimal under the *worst-case* distribution over patient parameters
+consistent with observable PSA trajectories. This is clinically important because
+LV parameters are not directly measurable — they are inferred from noisy PSA blood
+draws — and policies that are fragile to parameter misspecification can fail
+catastrophically in real patients.
+
+## Roadmap
+
+| Phase | Status | Description |
+|-------|--------|-------------|
+| **Phase 1** | ✅ This repo | Lotka-Volterra model, synthetic cohort generation, protocol simulation |
+| **Phase 2** | Planned | Bayesian/MCMC parameter uncertainty quantification per patient |
+| **Phase 3** | Planned | Convex reformulation: robust optimization over uncertainty sets |
+| **Phase 4** | Planned | Distributionally robust treatment policies (Wasserstein DRO) |
+
+---
+
+## Installation
+
+```bash
+# Clone / enter repo
+cd robust-adaptive-therapy
+
+# Create virtual environment (Python 3.10+)
+python -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## Quickstart: Synthetic Data Pipeline
+
+Run the three scripts in order from the repo root:
+
+```bash
+# 1. Generate 50 synthetic patients (saves to data/synthetic/)
+python scripts/01_generate_synthetic_data.py
+
+# 2. Fit LV model to the first 5 synthetic patients and validate
+python scripts/02_fit_patient_parameters.py
+
+# 3. Compare MTD, Zhang AT, Range-Bounded AT, and Oracle-Optimal protocols
+python scripts/03_simulate_treatments.py
+```
+
+Then open the exploratory notebook:
+
+```bash
+jupyter notebook notebooks/00_explore_data.ipynb
+```
+
+---
+
+## Using Real Patient Data
+
+### Data source
+
+The PSA time-series for the 16 mCRPC patients from the Zhang *et al.* 2017
+randomized pilot are published as supplementary figures in:
+
+> Zhang J, Cunningham JJ, Brown JS, Gatenby RA. (2022).
+> *Integrating evolutionary dynamics into treatment of metastatic
+> castration-resistant prostate cancer.* **eLife**, 11, e74336.
+> https://doi.org/10.7554/eLife.74336
+
+The individual PSA trajectories appear in **Supplementary Figure 1** (adaptive arm)
+and **Supplementary Figure 2** (standard-of-care arm).
+
+### How to digitize the curves (WebPlotDigitizer)
+
+1. Download the eLife 2022 supplementary PDF and extract the figure panels as PNG
+   (e.g. with `pdfimages` or a screenshot).
+2. Open https://automeris.io/WebPlotDigitizer/ in your browser (no installation needed).
+3. Upload the PNG, click **2D (X-Y) Plot**, then calibrate the axes:
+   - Click two known X-axis points (e.g., day 0 and day 500) and enter their values.
+   - Click two known Y-axis points (e.g., PSA = 0 and PSA = 50) and enter their values.
+4. Use **Automatic Extraction** → **Color** mode, pick the PSA curve color, and
+   adjust the tolerance until only the line is selected.
+5. Click **View Data**, then **Download CSV**. The CSV will have columns `x, y`
+   corresponding to day and PSA (ng/mL).
+6. Rename columns to `day, psa` and add an `on_treatment` column by manually
+   inspecting the shaded treatment-on periods in each figure panel.
+7. Save to `data/raw/patient_{id}.csv`.
+
+### Expected CSV format
+
+```
+day,psa,on_treatment
+0,28.4,1
+30,21.0,1
+60,12.5,1
+90,8.2,0
+120,10.1,0
+...
+```
+
+The `Patient` class and all downstream scripts will work unchanged with any CSV
+that has these three columns.
+
+---
+
+## Project Structure
+
+```
+robust-adaptive-therapy/
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/           # Real digitized patient CSVs go here
+│   ├── processed/     # Cleaned / aligned data
+│   └── synthetic/     # Generated by script 01
+├── src/
+│   ├── __init__.py
+│   ├── lotka_volterra.py   # Three-species LV ODE model
+│   ├── psa_model.py        # PSA observation model
+│   ├── patient.py          # Patient data class
+│   └── utils.py            # Plotting, metrics, KM estimator
+├── scripts/
+│   ├── 01_generate_synthetic_data.py
+│   ├── 02_fit_patient_parameters.py
+│   └── 03_simulate_treatments.py
+├── notebooks/
+│   └── 00_explore_data.ipynb
+└── tests/
+    └── test_lotka_volterra.py
+```
+
+---
+
+## References
+
+- Gatenby RA, Zhang J, Brown JS. (2019). First strike–second strike strategies in
+  metastatic cancer: lessons from the evolutionary dynamics of extinction.
+  *Cancer Research*, 79(13), 3174–3177.
+- Zhang J, et al. (2017). Integrating evolutionary dynamics into treatment of
+  metastatic castration-resistant prostate cancer. *Nature Communications*, 8, 1816.
+- Zhang J, et al. (2022). Integrating evolutionary dynamics into treatment of
+  metastatic castration-resistant prostate cancer. *eLife*, 11, e74336.
+- Brady-Nicholls R, et al. (2020). Prostate-specific antigen dynamics predict
+  individual responses to intermittent androgen deprivation. *npj Systems Biology
+  and Applications*, 6, 1.
+- Brady-Nicholls R, et al. (2022). Quantitative analysis of the Gatenby–Zhang
+  adaptive therapy clinical trial. *Cancers*, 14(14), 3483.

@@ -1,0 +1,3026 @@
+[
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "84"
+  },
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "129"
+  },
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDAtMDEwOnByYWRfZmhjcmM",
+    "patientId": "00-010",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "84"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2039"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDAtMDI5OnByYWRfZmhjcmM",
+    "patientId": "00-029",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "70"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Estramustine"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "325"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDAtMDkwOnByYWRfZmhjcmM",
+    "patientId": "00-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "60"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "6"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "733"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "6"
+  },
+  {
+    "uniquePatientKey": "MDAtMTQwOnByYWRfZmhjcmM",
+    "patientId": "00-140",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "47"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "202"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDEtMDAyOnByYWRfZmhjcmM",
+    "patientId": "01-002",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "71"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "701"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDEtMDg3OnByYWRfZmhjcmM",
+    "patientId": "01-087",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "72"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "106"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDEtMDk1OnByYWRfZmhjcmM",
+    "patientId": "01-095",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "63"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "3919"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDEtMTIwOnByYWRfZmhjcmM",
+    "patientId": "01-120",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDEtMTgxOnByYWRfZmhjcmM",
+    "patientId": "01-181",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "90"
+  },
+  {
+    "uniquePatientKey": "MDEtMTgxOnByYWRfZmhjcmM",
+    "patientId": "01-181",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDEtMTgxOnByYWRfZmhjcmM",
+    "patientId": "01-181",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDEtMTgxOnByYWRfZmhjcmM",
+    "patientId": "01-181",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "70"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "104"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDItMDY1OnByYWRfZmhjcmM",
+    "patientId": "02-065",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "72"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "844"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDItMDgzOnByYWRfZmhjcmM",
+    "patientId": "02-083",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDItMTQyOnByYWRfZmhjcmM",
+    "patientId": "02-142",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "86"
+  },
+  {
+    "uniquePatientKey": "MDItMTQyOnByYWRfZmhjcmM",
+    "patientId": "02-142",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDItMTQyOnByYWRfZmhjcmM",
+    "patientId": "02-142",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDItMTQyOnByYWRfZmhjcmM",
+    "patientId": "02-142",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "413"
+  },
+  {
+    "uniquePatientKey": "MDItMTQyOnByYWRfZmhjcmM",
+    "patientId": "02-142",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDItMTQyOnByYWRfZmhjcmM",
+    "patientId": "02-142",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "73"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "290"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDMtMDI3OnByYWRfZmhjcmM",
+    "patientId": "03-027",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "83"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "31"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgxOnByYWRfZmhjcmM",
+    "patientId": "03-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "63"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "264"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDMtMDgyOnByYWRfZmhjcmM",
+    "patientId": "03-082",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "65"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "106"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDMtMTMwOnByYWRfZmhjcmM",
+    "patientId": "03-130",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "86"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "722"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDMtMTM5OnByYWRfZmhjcmM",
+    "patientId": "03-139",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "58"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "0.5"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDMtMTYzOnByYWRfZmhjcmM",
+    "patientId": "03-163",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "73"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "303"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "MDMtMTkyOnByYWRfZmhjcmM",
+    "patientId": "03-192",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDQtMDUwOnByYWRfZmhjcmM",
+    "patientId": "04-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "86"
+  },
+  {
+    "uniquePatientKey": "MDQtMDUwOnByYWRfZmhjcmM",
+    "patientId": "04-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDQtMDUwOnByYWRfZmhjcmM",
+    "patientId": "04-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "MDQtMDUwOnByYWRfZmhjcmM",
+    "patientId": "04-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "1508"
+  },
+  {
+    "uniquePatientKey": "MDQtMDUwOnByYWRfZmhjcmM",
+    "patientId": "04-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "MDQtMDUwOnByYWRfZmhjcmM",
+    "patientId": "04-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "81"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "5.6"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDQtMTAxOnByYWRfZmhjcmM",
+    "patientId": "04-101",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDQtMTEyOnByYWRfZmhjcmM",
+    "patientId": "04-112",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "67"
+  },
+  {
+    "uniquePatientKey": "MDQtMTEyOnByYWRfZmhjcmM",
+    "patientId": "04-112",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDQtMTEyOnByYWRfZmhjcmM",
+    "patientId": "04-112",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDQtMTEyOnByYWRfZmhjcmM",
+    "patientId": "04-112",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "0.7"
+  },
+  {
+    "uniquePatientKey": "MDQtMTEyOnByYWRfZmhjcmM",
+    "patientId": "04-112",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDQtMTEyOnByYWRfZmhjcmM",
+    "patientId": "04-112",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "90"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "1456"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDQtMTQ5OnByYWRfZmhjcmM",
+    "patientId": "04-149",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "83"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "115"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDUtMDExOnByYWRfZmhjcmM",
+    "patientId": "05-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "81"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "1276"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "5"
+  },
+  {
+    "uniquePatientKey": "MDUtMDkyOnByYWRfZmhjcmM",
+    "patientId": "05-092",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "81"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "123"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDUtMTE2OnByYWRfZmhjcmM",
+    "patientId": "05-116",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "80"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "186"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDUtMTIzOnByYWRfZmhjcmM",
+    "patientId": "05-123",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "62"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "13"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "0.2"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "13"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ0OnByYWRfZmhjcmM",
+    "patientId": "05-144",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "67"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "454"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDUtMTQ4OnByYWRfZmhjcmM",
+    "patientId": "05-148",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "69"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "96"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDUtMTY1OnByYWRfZmhjcmM",
+    "patientId": "05-165",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "60"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "621"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDUtMTg3OnByYWRfZmhjcmM",
+    "patientId": "05-187",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "70"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2018"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE0OnByYWRfZmhjcmM",
+    "patientId": "05-214",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "72"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "299"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDUtMjE3OnByYWRfZmhjcmM",
+    "patientId": "05-217",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "67"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "59"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDUtMjIxOnByYWRfZmhjcmM",
+    "patientId": "05-221",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "70"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "1493"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDYtMDQ3OnByYWRfZmhjcmM",
+    "patientId": "06-047",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "69"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "328"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "MDYtMDgxOnByYWRfZmhjcmM",
+    "patientId": "06-081",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "84"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "241"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDYtMTI3OnByYWRfZmhjcmM",
+    "patientId": "06-127",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "73"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Estramustine"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2512"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDYtMTMxOnByYWRfZmhjcmM",
+    "patientId": "06-131",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "73"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "56"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDYtMTM0OnByYWRfZmhjcmM",
+    "patientId": "06-134",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "71"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "736"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDctMDQyOnByYWRfZmhjcmM",
+    "patientId": "07-042",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "73"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2816"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDctMDQ0OnByYWRfZmhjcmM",
+    "patientId": "07-044",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "77"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Estramustine"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "762"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDctMDUwOnByYWRfZmhjcmM",
+    "patientId": "07-050",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "82"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2295"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDctMDYyOnByYWRfZmhjcmM",
+    "patientId": "07-062",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "64"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "3869"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MDgtMDA2OnByYWRfZmhjcmM",
+    "patientId": "08-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "76"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "5691"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "MDgtMDIwOnByYWRfZmhjcmM",
+    "patientId": "08-020",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "77"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "3700"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDgtMDM3OnByYWRfZmhjcmM",
+    "patientId": "08-037",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "61"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "254"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDgtMDkzOnByYWRfZmhjcmM",
+    "patientId": "08-093",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "73"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "<0.03"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MDktMDA2OnByYWRfZmhjcmM",
+    "patientId": "09-006",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "62"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Carboplatin,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "967"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MTAtMDEzOnByYWRfZmhjcmM",
+    "patientId": "10-013",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "93"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "349"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MTAtMDM5OnByYWRfZmhjcmM",
+    "patientId": "10-039",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "57"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "0"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MTEtMDI4OnByYWRfZmhjcmM",
+    "patientId": "11-028",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "77"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "1182"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MTItMDA1OnByYWRfZmhjcmM",
+    "patientId": "12-005",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "61"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "31"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "MTItMDExOnByYWRfZmhjcmM",
+    "patientId": "12-011",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "74"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Carboplatin"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "MTItMDIxOnByYWRfZmhjcmM",
+    "patientId": "12-021",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "64"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "353"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "OTctMTU5OnByYWRfZmhjcmM",
+    "patientId": "97-159",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "72"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "6"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "315"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "6"
+  },
+  {
+    "uniquePatientKey": "OTctMjAxOnByYWRfZmhjcmM",
+    "patientId": "97-201",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "58"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "480"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "4"
+  },
+  {
+    "uniquePatientKey": "OTgtMzI4OnByYWRfZmhjcmM",
+    "patientId": "98-328",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTgtMzYyOnByYWRfZmhjcmM",
+    "patientId": "98-362",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "74"
+  },
+  {
+    "uniquePatientKey": "OTgtMzYyOnByYWRfZmhjcmM",
+    "patientId": "98-362",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "OTgtMzYyOnByYWRfZmhjcmM",
+    "patientId": "98-362",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "OTgtMzYyOnByYWRfZmhjcmM",
+    "patientId": "98-362",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "OTgtMzYyOnByYWRfZmhjcmM",
+    "patientId": "98-362",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "74"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "235"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "OTgtMzcyOnByYWRfZmhjcmM",
+    "patientId": "98-372",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "50"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "762"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "OTktMDY0OnByYWRfZmhjcmM",
+    "patientId": "99-064",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTktMDY5OnByYWRfZmhjcmM",
+    "patientId": "99-069",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "57"
+  },
+  {
+    "uniquePatientKey": "OTktMDY5OnByYWRfZmhjcmM",
+    "patientId": "99-069",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "OTktMDY5OnByYWRfZmhjcmM",
+    "patientId": "99-069",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "OTktMDY5OnByYWRfZmhjcmM",
+    "patientId": "99-069",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "2"
+  },
+  {
+    "uniquePatientKey": "OTktMDY5OnByYWRfZmhjcmM",
+    "patientId": "99-069",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "OTktMDY5OnByYWRfZmhjcmM",
+    "patientId": "99-069",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "78"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "Orchiectomy"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "None"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "1838"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "OTktMDkwOnByYWRfZmhjcmM",
+    "patientId": "99-090",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "AGE",
+    "value": "77"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "ANDROGEN_DEPRIVATION_THERAPY",
+    "value": "LHRH agonist"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "CHEMOTHERAPY",
+    "value": "Docetaxel,Estramustine,Mitoxantrone"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "NUMBER_OF_TUMORS",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "PSA",
+    "value": "2831"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "7"
+  },
+  {
+    "uniquePatientKey": "OTktMDkxOnByYWRfZmhjcmM",
+    "patientId": "99-091",
+    "studyId": "prad_fhcrc",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  }
+]

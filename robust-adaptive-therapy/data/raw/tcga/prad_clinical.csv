@@ -1,0 +1,501 @@
+case_id,submitter_id,age_at_diagnosis,tumor_stage,days_to_last_followup,days_to_death,vital_status,days_to_recurrence,gender,race
+1bc21d56-299d-40bc-b9c8-c74db990611e,TCGA-XK-AAK1,,,,,,,male,white
+a608bf0e-a932-4541-8439-2ffb9f6294b0,TCGA-EJ-A46E,21054.0,,524.0,,,,male,white
+f6040682-4999-4d71-abc2-354b473c6980,TCGA-HC-7748,,,,,,,male,white
+5a92ec4c-36ee-4588-aca2-e3303f29c7ad,TCGA-EJ-5542,,,,,,,male,white
+06c9eb11-6018-4015-9fbe-b46886b2c3e0,TCGA-XK-AAJ3,,,,,,,male,white
+cec1d2ff-36e6-497e-892c-b329724b4722,TCGA-EJ-A46H,22059.0,,724.0,,,,male,black or african american
+231a45e7-ad33-4789-a9fc-74ce7a18fcc3,TCGA-HC-7741,24608.0,,2725.0,,,,male,white
+00dda860-53c3-4ab2-8294-73e291adf9d2,TCGA-EJ-7312,,,,,,,male,white
+f8d8b417-5945-42a5-850a-fbc04b4f0e61,TCGA-G9-6364,26603.0,,1198.0,,,,male,white
+928c48a0-68ee-4e28-ae83-9832e52850ca,TCGA-CH-5753,,,,,,,male,white
+4fe004e5-49f9-4336-a690-6ebad512c813,TCGA-EJ-7791,24621.0,,1118.0,,,,male,white
+9519be01-d78d-462c-8a95-34149538afeb,TCGA-EJ-7123,21741.0,,2572.0,,,,male,white
+ed73f136-42e8-4100-b432-d10370d07e8b,TCGA-CH-5764,24257.0,,31.0,,,,male,white
+9b015929-99eb-4e74-8fbf-6b2e6d7f08e4,TCGA-J4-A6G3,20836.0,,849.0,,,,male,white
+929837f9-297a-47c0-ac9a-a142eef620d3,TCGA-HC-7821,,,,,,,male,white
+2b5ef82d-e137-43f6-bfef-b202f20ee187,TCGA-CH-5790,23529.0,,974.0,,,,male,white
+1170f449-dfb5-417a-a89b-b2229a2785db,TCGA-EJ-A46B,24305.0,,657.0,,,,male,white
+18e79a01-07a2-4cd5-b700-71d41724e041,TCGA-CH-5763,,,,,,,male,white
+5089a8d2-a353-4150-8a6b-6478c5bb29bb,TCGA-KC-A4BL,24081.0,,934.0,,,,male,black or african american
+b47791ba-85fd-41d0-ac1f-b6fa06f18e96,TCGA-XQ-A8TA,21889.0,,146.0,,,,male,white
+07ccb4e9-a2a9-4bfd-97bd-13873b01977a,TCGA-HC-8259,18309.0,,924.0,,,,male,black or african american
+ecf9f8be-7830-4626-8617-694c68ef4074,TCGA-CH-5772,,,,,,,male,white
+829bed0c-c40d-44fd-aee8-6c7589db60f9,TCGA-CH-5791,26786.0,,,,,,male,white
+71d14304-ccb0-4a4c-b935-8c014ca75fd0,TCGA-G9-6361,22565.0,,1415.0,,,,male,white
+f5319fd5-beae-4ca8-8f42-45fca5e6a2d2,TCGA-2A-A8W1,19964.0,,112.0,,,,male,asian
+93cf60a7-1d61-4c1c-8dce-221289800b0c,TCGA-ZG-A9L6,23681.0,,687.0,,,,male,white
+5d66ac77-1543-488b-a68f-665811bec67a,TCGA-XK-AAJT,27428.0,,1434.0,,,,male,white
+4434864a-8a0d-488e-b9a7-6749719663e5,TCGA-KK-A8IM,20425.0,,1915.0,,,,male,white
+554a7381-46fd-4301-b91b-5af7f173c350,TCGA-EJ-5525,25081.0,,,,,,male,white
+acd5ceef-c5cf-4e95-9394-c50fdbc70c8d,TCGA-G9-6499,24388.0,,1543.0,,,,male,white
+53c43d14-2310-41e9-ac43-3cc298404338,TCGA-HC-8213,17673.0,,589.0,,,,male,white
+afa7d9a2-3998-4182-bf63-54895ed2de37,TCGA-ZG-A9LS,23540.0,,516.0,,,,male,white
+e0dfc37a-4a2e-4353-9673-241b100b3467,TCGA-V1-A9O5,,,1932.0,,,,male,white
+3e290dc6-aba3-4135-b844-3e8c4cc8a25f,TCGA-HC-8265,24382.0,,483.0,,,,male,white
+c024c4b6-0143-4071-9175-7435f1eaac58,TCGA-J4-A83N,21274.0,,,,,,male,white
+21a29827-7896-436d-ab52-e7edfc91e7d0,TCGA-YL-A8SB,22991.0,,1719.0,,,,male,white
+e457eb5d-120e-41f4-8455-2ed8d534ff02,TCGA-HC-A632,24916.0,,61.0,,,,male,white
+d6974db6-2bd3-4082-b48e-9c60f7fe3a1f,TCGA-J4-A83M,23624.0,,543.0,,,,male,white
+aa8b99fd-973f-465d-ae24-3421fe784687,TCGA-EJ-A7NM,23603.0,,128.0,,,,male,white
+bea84d33-3286-44e2-9595-893c34a01f58,TCGA-V1-A8WS,,,474.0,,,,male,white
+8df0c1e8-966c-4f46-ad15-fae9e745a32e,TCGA-EJ-5501,20409.0,,1365.0,,,,male,white
+74c7dd37-7ff5-47ac-aeb7-14202871b6f1,TCGA-VN-A88P,21916.0,,1260.0,,,,male,white
+d4ffafdc-ee83-43df-aa3b-7326503c6438,TCGA-CH-5762,22068.0,,1339.0,,,,male,white
+804ee985-18dd-4f2d-a562-61b454601cdd,TCGA-EJ-7321,21108.0,,824.0,,,,male,black or african american
+5a468990-d76d-4c67-8437-62689b593ae2,TCGA-KC-A4BN,20392.0,,1815.0,,,,male,black or african american
+897a2af4-55af-4245-8629-1a71b622c17e,TCGA-J4-8200,17167.0,,1218.0,,,,male,asian
+256f5bcf-10a9-47be-b265-cfa707d24097,TCGA-J4-A83K,19299.0,,328.0,,,,male,white
+f6743ff8-542e-4fde-8ff2-4878fcabffda,TCGA-EJ-A7NJ,21748.0,,197.0,,,,male,white
+a8d81122-3f2a-43f4-bdc1-479cab37a19d,TCGA-FC-7961,22888.0,,469.0,,,,male,white
+13a63fd0-6c8c-4707-9135-8052f454d1ac,TCGA-HC-7749,25688.0,,724.0,,,,male,white
+2648c3c9-9884-4a0c-96aa-61130cd289ea,TCGA-SU-A7E7,22185.0,,551.0,,,,male,white
+aa405b5f-f75d-486a-96f3-1df7add18193,TCGA-VP-A87D,19818.0,,1853.0,,,,male,white
+40ebeb10-7390-44fc-9ef2-80d40d251018,TCGA-V1-A9O7,,,2499.0,,,,male,white
+aaeb1d59-d6ce-4422-9639-f1e83c002d84,TCGA-KK-A7B3,,,,,,,male,white
+ab378ad0-1881-403f-9e85-d6f97e7b7c81,TCGA-EJ-8472,23104.0,,756.0,,,,male,white
+38a2b705-d8a4-45ca-8bcd-96dbf93d8e4d,TCGA-KK-A6E3,20547.0,,2056.0,,,,male,black or african american
+abeb0894-862f-4035-a6d9-fe0ba61630a9,TCGA-WW-A8ZI,25593.0,,449.0,,,,male,white
+6b3f53ab-00f4-4c45-9bb5-5c8adbc66084,TCGA-HC-A6AS,25661.0,,44.0,,,,male,white
+adbf5bda-e2dc-4b25-8fb9-96d89093f77d,TCGA-ZG-A9KY,27000.0,,130.0,,,,male,white
+ead15a1b-726a-46aa-9005-a22f4b89d011,TCGA-HC-A6AP,22318.0,,71.0,,,,male,white
+ae3a0c92-148d-4f1c-8563-06ac1050f53e,TCGA-EJ-5532,21110.0,,1828.0,,,,male,white
+24e5d323-f3d4-4add-9a29-79e77ced357c,TCGA-YL-A8SQ,22482.0,,2083.0,,,,male,white
+aeec3005-25d7-45fc-a9ff-014d57960216,TCGA-EJ-7794,24478.0,,1306.0,,,,male,white
+00b16434-0b3a-4194-8714-74dccbebe06c,TCGA-EJ-8468,23371.0,,2347.0,,,,male,white
+b182bda9-3d9f-4958-96eb-bd6cc441830c,TCGA-HC-7231,24278.0,,939.0,,,,male,white
+00e41e6a-9fe7-44f9-978b-7b05b179506a,TCGA-G9-6342,22472.0,,1696.0,,,,male,white
+b2bcc97f-03a6-409a-8b91-78221cb10d7f,TCGA-YL-A9WK,23272.0,,2136.0,,,,male,black or african american
+b3bf57d4-e31a-4740-b438-fa826fb79550,TCGA-CH-5741,20759.0,,395.0,,,,male,white
+03c15d06-b81e-433c-9de4-906cba91539f,TCGA-ZG-A9NI,26697.0,,132.0,,,,male,white
+b424b73a-2dfa-473f-ab56-ab382cd1cdef,TCGA-EJ-7331,23458.0,,742.0,,,,male,white
+b5b3871c-078c-46a7-ac50-ef916d4a6781,TCGA-G9-6363,23480.0,,1378.0,,,,male,white
+083cc988-19a5-49b4-97c0-4e7bcc5d5c08,TCGA-ZG-A9L1,24214.0,,1302.0,,,,male,white
+b7b61392-c085-4e28-892f-e9b6fe6ece41,TCGA-EJ-AB27,18648.0,,145.0,,,,male,white
+0885eb03-de9f-46ba-9c53-fb69c67ab9f0,TCGA-V1-A9Z9,,,540.0,,,,male,white
+b8fbfe87-e92c-4d54-a620-17b2dcde6d53,TCGA-G9-6498,19568.0,,1952.0,,,,male,white
+0aad0abd-750a-400d-a34f-491da996d46c,TCGA-CH-5754,23803.0,,62.0,,,,male,white
+0af98331-9305-41e9-af55-30390016d65e,TCGA-CH-5748,23649.0,,31.0,,,,male,white
+bd18dd01-d894-4bdd-9ce2-e25705a52a57,TCGA-EJ-5508,23758.0,,1965.0,,,,male,white
+0b5ed938-6ab8-4e76-8558-1d86f3a90dfa,TCGA-YL-A9WJ,18798.0,,,,,,male,white
+be5411dc-3caa-4b25-9b94-ce463e8e52b4,TCGA-CH-5789,22494.0,,304.0,,,,male,white
+bf428d43-2da6-43fc-bd62-7cbff84e95ec,TCGA-XJ-A83G,,,1461.0,,,,male,black or african american
+0e747c7e-3621-4d88-847c-86811655d908,TCGA-XK-AAIV,23325.0,,1133.0,,,,male,white
+bfb973eb-d42d-4900-a606-a381d2317555,TCGA-YL-A8SH,25395.0,,875.0,,,,male,white
+10271d9c-9b9c-4b5f-a845-a0f1bd03af51,TCGA-V1-A9OQ,,,371.0,,,,male,white
+c039014f-821c-43d6-9d3c-914f9c8d98fa,TCGA-CH-5788,25233.0,,821.0,,,,male,white
+108dee1e-b27d-4056-a167-261725f548c1,TCGA-KK-A8I7,20256.0,,2002.0,,,,male,white
+1122fa92-0073-4f59-9880-3f1a34620758,TCGA-J9-A8CL,24145.0,,405.0,,,,male,white
+c362f6f9-4ce6-4659-8c36-4cd45c72fb03,TCGA-EJ-A7NK,21530.0,,476.0,,,,male,white
+11fb5853-8eeb-4ad8-825d-3eaaf3fa08d6,TCGA-HI-7169,20133.0,,2684.0,,,,male,white
+c3fd52fe-bdc2-4cca-91c7-590a192f80ed,TCGA-VN-A88I,21576.0,,269.0,,,,male,white
+12f225d0-cbff-44eb-9183-bacc7f33b090,TCGA-G9-6378,19879.0,,1155.0,,,,male,black or african american
+c4c1b5be-a0e7-4968-92de-7f34c71207fb,TCGA-J4-A67K,24908.0,,1004.0,,,,male,white
+c4ebb2eb-e1f0-4490-80f3-5cf0c40a3091,TCGA-Y6-A9XI,26471.0,,526.0,,,,male,Unknown
+14c2819b-9afc-4c89-849f-530e289d55bf,TCGA-V1-A9OX,,,1134.0,,,,male,white
+c51ccff8-2502-40e1-b130-fe655c119169,TCGA-HC-A9TE,23543.0,,587.0,,,,male,white
+159b47b2-dc7d-4856-9a00-454e27301e23,TCGA-YL-A8SK,24759.0,,1408.0,,,,male,white
+c606918f-e8c0-4019-ad6f-47d5cd7615c4,TCGA-EJ-7115,23986.0,,2687.0,,,,male,white
+c75bee57-d6da-4083-9be8-17c970b77fc7,TCGA-ZG-A9L4,22388.0,,1108.0,,,,male,white
+c7912ca7-11e1-4cb8-902a-9d6cb23fd344,TCGA-ZG-A9L9,22108.0,,617.0,,,,male,white
+186d7f36-4e93-4ab2-bc23-95d5cd296656,TCGA-J9-A8CN,19662.0,,1237.0,,,,male,white
+ca076cfd-c628-4af2-837c-37617429adb9,TCGA-ZG-A9LZ,24132.0,,692.0,,,,male,white
+1940166e-aedc-4dc5-90a5-609871f9f7da,TCGA-J9-A52C,20966.0,,178.0,,,,male,white
+cd113dc4-915a-47d2-bce0-9dba915a9d29,TCGA-CH-5740,20880.0,,31.0,,,,male,white
+1a8a887e-b9f0-42f5-8dce-4e58cb13844b,TCGA-EJ-8470,21209.0,,1159.0,,,,male,black or african american
+ce3585d3-7388-4d05-84c8-64e0883003b3,TCGA-HC-7232,24324.0,,1161.0,,,,male,white
+1cbaa137-c3b0-46a2-9b23-208682c2a438,TCGA-J4-A67Q,28447.0,,975.0,,,,male,white
+cf70909e-5143-47ae-b8ca-c3ae6ace7be2,TCGA-G9-7521,19216.0,,942.0,,,,male,white
+1d7ffbe7-6139-412b-8739-8082a63a2b33,TCGA-G9-6356,22010.0,,1434.0,,,,male,white
+d07d20f4-dd65-4ffc-add4-01f350ca7b65,TCGA-QU-A6IN,22286.0,,4264.0,,,,male,white
+d112136d-34fa-426e-b432-4d1e4286adf8,TCGA-KK-A6E0,21700.0,,1483.0,,,,male,asian
+d17b1955-0565-46c1-a5a7-ecd41ac0286a,TCGA-XK-AAJA,22771.0,,930.0,,,,male,Unknown
+1f4ff2c7-3fbb-46a1-99cf-68d2c33c5175,TCGA-EJ-7789,24107.0,,1105.0,,,,male,black or african american
+d1fd7be0-6daa-4f1f-a198-3dca7a797e49,TCGA-HC-7819,19663.0,,543.0,,,,male,white
+d33074f0-5f88-4995-9439-76068a9f4836,TCGA-G9-6379,25126.0,,1778.0,,,,male,white
+208a75b3-407c-4c5a-8938-3691547b6887,TCGA-FC-7708,19144.0,,864.0,,,,male,asian
+d44d4bcb-beb1-4464-acd2-9972751f5018,TCGA-EJ-5521,23304.0,,2279.0,,,,male,white
+2270d09e-a8be-4b7d-9520-a4bb1cd053c0,TCGA-XK-AAIW,28721.0,,1218.0,,,,male,white
+23e56e08-e11d-4e83-88a8-1254675b3af8,TCGA-EJ-A8FU,23472.0,,138.0,,,,male,white
+d4ff9f1a-1d35-4ad6-9a36-059547081c7e,TCGA-EJ-A65M,23767.0,,230.0,,,,male,black or african american
+24d7d4d8-f5c1-4d71-80e0-72a429fc9dbd,TCGA-VP-A87K,23030.0,,1306.0,,,,male,white
+d5c43a14-21ab-4178-ae33-2d8b7baa256f,TCGA-G9-6371,21365.0,,1226.0,,,,male,white
+25d70934-01a5-45a2-9960-68d3058b6965,TCGA-HI-7168,22881.0,,3323.0,,,,male,white
+261c3d74-706e-4751-bd15-8f3c1a402ff0,TCGA-KK-A8I9,22295.0,,1001.0,,,,male,not reported
+26eefaa1-1666-4ce1-8cf4-f6fabff81fd2,TCGA-HC-7213,19699.0,,1219.0,,,,male,white
+d843996c-0f17-4482-8466-9f6144981b8a,TCGA-V1-A8WW,,,1078.0,,,,male,white
+28689d40-03e5-4e17-aba1-f2d571535eed,TCGA-EJ-7792,19454.0,,1396.0,,,,male,white
+da07da37-bde6-480a-a302-98683ae3931a,TCGA-EJ-7793,17982.0,,114.0,,,,male,white
+29bd2c05-254b-4bb2-ae32-5b328f772441,TCGA-J4-A67L,20034.0,,770.0,,,,male,white
+da5b0169-e4f4-4674-b348-220af03ff4b5,TCGA-HC-8258,20703.0,,847.0,,,,male,black or african american
+2b35c119-cdc1-49e2-8229-ca5cde9e63d0,TCGA-EJ-5518,24313.0,,2118.0,,,,male,white
+db2779f6-8fe2-48c3-988b-81db1815a678,TCGA-J4-A67R,23807.0,,910.0,,,,male,white
+2c7ec330-261e-49c7-9424-6d83641dba6d,TCGA-EJ-7315,25154.0,,1008.0,,,,male,white
+dc16f348-a49f-4958-a3ff-bc40e18df2bd,TCGA-V1-A8WN,,,924.0,,,,male,black or african american
+2d70eacc-d0c3-4121-bd1a-a47d68ecede5,TCGA-YL-A9WI,23184.0,,1623.0,,,,male,white
+dc40cf49-b208-4f59-b5f0-cfbdd02970b2,TCGA-CH-5750,26389.0,,396.0,,,,male,white
+2def2a53-d2e8-46f0-8b07-f32dbf1833a4,TCGA-EJ-7785,19939.0,,1177.0,,,,male,white
+deb57bd8-545f-477a-9a86-6bc6db257270,TCGA-KK-A6E1,21063.0,,2198.0,,,,male,white
+dec99f86-622b-477f-a26a-98c954fb1f17,TCGA-V1-A9ZG,,,1517.0,,,,male,white
+301c4c32-bc66-4328-8dcf-fe3dd66fbde2,TCGA-V1-A8MG,,,857.0,,,,male,black or african american
+30aba886-5152-4e25-b36f-6ce7009d419e,TCGA-J9-A52E,23741.0,,323.0,,,,male,white
+df3abb97-c790-4ff6-a726-6645b3058d72,TCGA-G9-6366,22428.0,,1947.0,,,,male,white
+33283111-9a2f-4d5e-92a5-3435846404f7,TCGA-EJ-7781,23937.0,,1073.0,,,,male,white
+df7bbd9c-0b35-4855-acde-46f4956f4df1,TCGA-KK-A59Z,24306.0,,2628.0,,,,male,black or african american
+341940fc-dd2a-485c-a359-d5e5edb22312,TCGA-HC-A8D1,25137.0,,573.0,,,,male,white
+e0ff90e5-e6c3-4fb5-9512-6f09a891378b,TCGA-G9-6369,20238.0,,1215.0,,,,male,white
+e1c3d1bd-cf8f-4fa4-ac8e-bf9e54f7aad4,TCGA-EJ-5504,24072.0,,1427.0,,,,male,white
+355e84e7-0d50-4bc2-a481-dfece2f8c687,TCGA-ZG-A9L0,26055.0,,355.0,,,,male,white
+e27c50e2-2a41-4f8c-9ef8-2bc51fb0c23e,TCGA-EJ-5494,18596.0,,1477.0,,,,male,white
+37ec45fd-1c85-49cb-835e-fa7b2b8ce16f,TCGA-EJ-A65E,24558.0,,417.0,,,,male,black or african american
+39303e7c-5baf-479d-a112-d8f03a18c621,TCGA-KK-A7AU,23118.0,,1775.0,,,,male,white
+e35336e1-e358-493f-9beb-276b5fc6685a,TCGA-EJ-7788,19623.0,,859.0,,,,male,white
+e4a755e3-4938-4321-b5a9-27a445036791,TCGA-EJ-5530,22316.0,,1832.0,,,,male,white
+3acd8328-76f7-4f43-9660-394b95748c3d,TCGA-CH-5771,23101.0,,396.0,,,,male,white
+3d6abc44-d094-4250-8dfc-347ae9c741f2,TCGA-HC-A6HY,18779.0,,134.0,,,,male,white
+e6cbf99d-4a10-4c11-9ac2-eb26ef57331f,TCGA-HC-A6AL,23618.0,,67.0,,,,male,white
+e82a04cf-e81e-43c6-9cd9-0e29fa0f00ae,TCGA-G9-6385,24399.0,,830.0,,,,male,white
+e833ad67-2cb3-414c-b15e-28f49479e2ef,TCGA-VP-A875,24742.0,,2309.0,,,,male,black or african american
+3de1a86b-aaeb-4f0d-9f32-1fda924198d7,TCGA-ZG-A9LY,21942.0,,370.0,,,,male,white
+3e71fa1c-855c-475a-9dd0-a314a3ecd48d,TCGA-KC-A4BR,27741.0,,1349.0,,,,male,white
+e90ab72a-4bbb-4c37-b48a-8a1a85d79d04,TCGA-EJ-7327,22475.0,,923.0,,,,male,white
+3f5270a2-3284-4523-bd81-54fc98c2b933,TCGA-KK-A8IF,20888.0,,804.0,,,,male,black or african american
+ea770d22-2cba-465c-9555-e0877dcecb9f,TCGA-EJ-A8FN,21506.0,,329.0,,,,male,white
+3fa83688-1724-42cb-a600-472e4c500e89,TCGA-HC-A6AQ,21885.0,,,,,,male,white
+eb715348-7c5c-4e95-bac8-05604bdda2da,TCGA-VN-A88O,17945.0,,481.0,,,,male,Unknown
+3fc9e3b4-8bc5-4bf8-bff6-dd90346b83a1,TCGA-J4-A67O,21714.0,,839.0,,,,male,white
+ebe711e4-45af-4082-bdf6-b0f7ac899b3e,TCGA-HC-7818,24391.0,,938.0,,,,male,white
+ec3870c9-4930-4af7-b2eb-1e16c9ec9f14,TCGA-HC-7211,22768.0,,1221.0,,,,male,white
+42b7d14f-09e5-4d91-bb98-5fe35907a6a9,TCGA-EJ-7328,25756.0,,842.0,,,,male,white
+432f15ba-7401-4827-83a5-3eaafaaa4bea,TCGA-J4-A67T,23211.0,,183.0,,,,male,white
+ef974c39-8bac-486b-a395-9d1283e08028,TCGA-ZG-A9LB,26447.0,,583.0,,,,male,white
+436b242c-ad5f-432e-a684-27bba4c1c8a2,TCGA-KK-A5A1,26415.0,,2469.0,,,,male,black or african american
+f00b4a22-c327-4fbb-a9a3-4418c13e2a48,TCGA-J4-A6M7,19640.0,,512.0,,,,male,white
+45a04209-8fac-4181-bba3-1437c8fd7f09,TCGA-EJ-7325,,,,,,,male,white
+f0f637b5-de40-4853-b54b-08468d45b195,TCGA-J4-AAU2,21656.0,,825.0,,,,male,white
+486d225f-eca6-499b-a142-dd86137b22e4,TCGA-VP-A87J,20792.0,,1774.0,,,,male,black or african american
+48e83a4c-c602-494a-80cd-e2f4b4dd701e,TCGA-EJ-5502,18447.0,,1171.0,,,,male,not reported
+f211f7a9-cf3b-432c-9ea0-1172cce14e9d,TCGA-G9-7510,24187.0,,1185.0,,,,male,white
+490e84ed-3c02-4593-990e-ade5c109df44,TCGA-2A-AAYF,20866.0,,1364.0,,,,male,white
+49197847-cc83-4ce1-8397-d09cea4c4928,TCGA-2A-A8VL,18658.0,,621.0,,,,male,white
+f25bae1a-8627-46a8-87af-07f82773c68a,TCGA-HC-7747,19188.0,,748.0,,,,male,white
+4a3d9efe-f24e-4135-8a70-e202651e7a81,TCGA-EJ-5510,17895.0,,1887.0,,,,male,white
+f3e93819-a8f5-4d15-a416-3edd42aa52d1,TCGA-HC-A6HX,20263.0,,38.0,,,,male,white
+4b9aa301-d2e3-47f3-b724-a34f420b2b6b,TCGA-EJ-5517,20422.0,,1889.0,,,,male,white
+f4478172-7727-4680-9934-da755ab1825c,TCGA-EJ-A7NF,20587.0,,250.0,,,,male,white
+4bc71292-60bb-4b63-86c1-0fe021083804,TCGA-EJ-7784,23183.0,,781.0,,,,male,white
+f4e17ba1-f14f-480e-8fe3-415909fc320a,TCGA-G9-7525,23481.0,,994.0,,,,male,white
+f4e9a9f9-263c-4ced-a8fb-6cb0fb088983,TCGA-KK-A7AP,20315.0,,,,,,male,white
+4db62b98-abd4-4a7c-9fce-8bbda2aec8a3,TCGA-V1-A9Z7,,,874.0,,,,male,white
+f59b9c65-46e8-4cc3-aa71-8844f6c2273c,TCGA-G9-6351,18723.0,,2048.0,,,,male,white
+f6381367-142c-45d0-92b3-c1727d1813ce,TCGA-HC-7744,17065.0,,531.0,,,,male,white
+f6935f67-5c62-4774-8346-711f36f3b547,TCGA-V1-A9O9,,,2870.0,,,,male,white
+f6c61a22-a711-416d-9e65-6a1b957e5b2e,TCGA-CH-5768,26480.0,,731.0,,,,male,white
+4fdc9f5a-7ba1-4f80-b3db-2b7cbe505217,TCGA-TK-A8OK,26976.0,,27.0,,,,male,white
+f7fc3f2e-c70e-460d-b34d-bb2ea423a0ae,TCGA-V1-A8WL,,,1948.0,,,,male,black or african american
+5313a055-c2d7-4cbd-a8c1-57ac85912d89,TCGA-EJ-5519,23669.0,,1962.0,,,,male,white
+f8a42feb-fbc9-4a13-bad5-1dcefca2a9bf,TCGA-EJ-5511,20409.0,,1476.0,,,,male,black or african american
+56353d9c-9578-4d62-9dcd-92d800efdea0,TCGA-X4-A8KQ,23999.0,,1383.0,,,,male,white
+f947b0bc-bdac-44e8-b5b9-ffae4147740a,TCGA-G9-6370,19149.0,,1156.0,,,,male,white
+56c88739-c076-42cc-a2cb-fd613ab567b5,TCGA-KK-A6E2,19974.0,,5024.0,,,,male,black or african american
+f98366df-9616-41c0-a6b8-ec92dca7177a,TCGA-EJ-7797,19616.0,,983.0,,,,male,white
+570ddfb3-2721-42b6-9604-2de6b6090031,TCGA-QU-A6IO,19564.0,,3716.0,,,,male,black or african american
+57284c88-b9aa-4455-a07f-7009e1732cfb,TCGA-HC-8212,19539.0,,2179.0,,,,male,white
+5828401b-0901-4a73-9d0c-1e85d3431475,TCGA-CH-5738,26329.0,,212.0,,,,male,white
+fb7e9935-32a2-422b-8004-88b827a686c2,TCGA-HC-8262,20946.0,,679.0,,,,male,white
+fc823ab7-9390-4c57-9883-3e32ee17e794,TCGA-KC-A7F6,23367.0,,263.0,,,,male,white
+59207bcd-f127-481f-b576-8716da7d7d97,TCGA-G9-6336,20851.0,,2068.0,,,,male,white
+fcbd7b29-12da-44c8-b241-1388d1b15684,TCGA-V1-A9OL,,,1913.0,,,,male,asian
+5a790086-4887-4d2b-9c28-0fdd5dd1f1fb,TCGA-2A-A8W3,25557.0,,863.0,,,,male,white
+fd1aa612-df86-4d48-892d-2acebd76ea96,TCGA-EJ-5499,22286.0,,1415.0,,,,male,asian
+5dc7e186-7e01-4a54-8ae8-350dace2297b,TCGA-J4-A83I,23240.0,,685.0,,,,male,white
+fe7b283c-9cf4-4be2-8a3a-251a81a8d78f,TCGA-YL-A8SF,22844.0,,1373.0,,,,male,white
+5e15dcc7-932e-4d9a-a765-bd5ff1cd7aea,TCGA-XA-A8JR,25090.0,,376.0,,,,male,Unknown
+ff52fa2f-bd12-4de0-9f5c-cd330ffb5fb3,TCGA-YL-A8HL,21249.0,,1565.0,,,,male,white
+dee02265-d8dd-4379-ae08-72d72b03a570,TCGA-EJ-5497,17523.0,,405.0,,,,male,white
+aa1a3a43-2f9c-456c-ba74-81c29b9801cb,TCGA-2A-AAYU,20582.0,,615.0,,,,male,white
+aa252f78-ebf3-42f9-86af-bb6e57345706,TCGA-EJ-5503,18395.0,,1391.0,,,,male,white
+91c0d161-2b59-4b7a-8c19-6d26dea31849,TCGA-2A-A8VO,20958.0,,1701.0,,,,male,white
+69fc0351-6496-46b5-be22-25b80c1dc4cc,TCGA-V1-A9OY,,,1067.0,,,,male,white
+aae0fca8-99e9-4fde-a2e9-b0ea500737f8,TCGA-EJ-A6RC,23598.0,,873.0,,,,male,white
+17916c4e-febe-48c6-b475-ad29397425e8,TCGA-KK-A8IA,25284.0,,1931.0,,,,male,white
+3ba3d23d-67e2-4f38-9951-f5cfa1131f9f,TCGA-H9-A6BX,22039.0,,941.0,,,,male,white
+e377f873-c0d1-4810-9f3d-e551723858e1,TCGA-KK-A6E6,25320.0,,3447.0,,,,male,white
+ab540819-9531-4e99-868a-751649f25e6a,TCGA-VN-A88Q,22087.0,,1366.0,,,,male,white
+0f01ec33-00a8-4188-a8f0-e90d46ad9bc7,TCGA-G9-7519,21276.0,,849.0,,,,male,white
+ac67d0df-7dc0-4a1a-8b47-beec9b94de86,TCGA-CH-5745,24837.0,,91.0,,,,male,white
+aca312ab-6dbd-4183-8b22-8f37834f3426,TCGA-EJ-7125,16425.0,,2850.0,,,,male,white
+3971a2f0-7263-4cda-aa01-9a2ebb2c2ff2,TCGA-HC-8260,15884.0,,686.0,,,,male,black or african american
+adf3c2f7-d5f9-41c3-bd8c-7f9f1f22ff73,TCGA-EJ-5531,22760.0,,1273.0,,,,male,white
+b751083d-be6d-45da-be97-a6d41d8ebe97,TCGA-EJ-A8FO,18875.0,,282.0,,,,male,Unknown
+ae739a4a-e319-4d87-8330-14f2fbc8839d,TCGA-ZG-A8QX,20683.0,,442.0,,,,male,white
+000d566c-96c7-4f1c-b36e-fa2222467983,TCGA-KK-A7B2,24845.0,,1099.0,,,,male,white
+007f9081-5093-4323-b4f8-cd510bf20705,TCGA-G9-6377,22419.0,,958.0,,,,male,white
+b0669eec-6a1a-4618-ae23-ae0f9e9c266c,TCGA-YL-A8S9,23204.0,,1842.0,,,,male,white
+b1bdaf2d-7d84-4409-9427-5390150bb96d,TCGA-KK-A6DY,18420.0,,4295.0,,,,male,black or african american
+00f0f7dd-71de-4e4f-b4b5-df860324f2e8,TCGA-EJ-A8FP,21769.0,,299.0,,,,male,white
+00f7f9d3-7a34-4a5b-9d19-38810dcabbba,TCGA-J4-A67N,22420.0,,937.0,,,,male,white
+03c66cf8-bc68-4ee1-a322-689a29b72262,TCGA-HC-7230,18577.0,,1001.0,,,,male,white
+b5268f49-2710-4d17-a78b-4a05412e8375,TCGA-G9-6347,21721.0,,2089.0,,,,male,not reported
+0730216b-c201-443c-9092-81e23fd13c6c,TCGA-HC-7742,21323.0,,938.0,,,,male,white
+b6f54bdc-9b1b-4465-a6e3-f0524885e10e,TCGA-HC-A8CY,23154.0,,290.0,,,,male,white
+084ac674-f4cf-4a4a-a6a2-687c05c272ea,TCGA-G9-A9S0,20180.0,,,,,,male,white
+b7c8ca4c-8d9c-4c5b-99ee-2fcebe4f70e6,TCGA-YL-A8HO,24509.0,,2304.0,,,,male,black or african american
+08f11bdd-d665-45ab-b1a2-5485d91922c2,TCGA-EJ-A46F,21160.0,,783.0,,,,male,white
+ba0c9096-5f35-4f0a-ae98-ee1a695b55f0,TCGA-EJ-5527,25234.0,,1778.0,,,,male,white
+bb8e6886-edc7-4127-a85b-c4f3769b6681,TCGA-HC-A4ZV,20634.0,,23.0,,,,male,black or african american
+bcc94953-ce79-428e-99c1-632e42c1b9bc,TCGA-G9-6353,21221.0,,1542.0,,,,male,white
+0afa0e02-daae-47e6-9ccb-9de8e4feb73c,TCGA-HC-A8D0,22465.0,,775.0,,,,male,white
+bdd4fefa-512a-4720-9f9e-11eb3892fe3c,TCGA-XJ-A83F,,,1127.0,,,,male,white
+0c459149-0dfe-4206-b50b-db79180ebb57,TCGA-G9-6494,24381.0,,1771.0,,,,male,white
+0d498226-e22a-44a4-9ef8-1da8e83fa55b,TCGA-EJ-A7NH,20734.0,,474.0,,,,male,white
+bf462e14-f9e8-4531-905d-1fb59d9088cb,TCGA-KK-A7AV,21192.0,,822.0,,,,male,black or african american
+0fb599ce-5e10-4571-8160-4f5160791a3f,TCGA-KK-A6E5,23144.0,,2073.0,,,,male,black or african american
+105e12bf-4f39-4d7a-870f-fbc329ee210a,TCGA-HC-A76X,22756.0,,150.0,,,,male,white
+c03ae0f2-dde3-47e8-a046-ce85c86dd77d,TCGA-J9-A52D,26023.0,,212.0,,,,male,white
+10fbe481-f111-4f88-ae45-4d67cb265567,TCGA-HC-7079,18734.0,,1184.0,,,,male,white
+c28f931f-5ab2-4899-9fe9-54024f082d92,TCGA-EJ-5512,17127.0,,1733.0,,,,male,white
+11882dac-3ba3-40fa-8af4-174cba77881a,TCGA-VP-A879,25799.0,,728.0,,,,male,white
+c3a509c6-35a6-4d17-a9fd-0aa8884b33a0,TCGA-G9-6373,24887.0,,811.0,,,,male,white
+12d2b93e-a033-4b36-ae81-c15879eb40bd,TCGA-XK-AAIR,27703.0,,972.0,,,,male,white
+c46022f8-b122-4367-836b-ec1ae641a87d,TCGA-G9-6332,20166.0,,2657.0,,,,male,white
+13ce70a8-785c-4b59-b073-41922cb201f9,TCGA-EJ-5509,23368.0,,1464.0,,,,male,white
+1426b4bf-f4a5-477c-bbbb-e0e656549764,TCGA-EJ-7782,25965.0,,1167.0,,,,male,black or african american
+c506fae4-7c0a-4705-8e80-5bcc122a8a32,TCGA-YL-A8SP,21455.0,,2366.0,,,,male,white
+1583aea0-5d69-4165-9bef-d5bfdddf3a65,TCGA-M7-A71Y,20357.0,,493.0,,,,male,white
+c5f8c89c-ef69-42f4-9b37-5b552fccdf4b,TCGA-YL-A8SI,25292.0,,1614.0,,,,male,white
+17c0ce0f-8227-4119-9b39-ea8db18f5f4b,TCGA-VP-A87B,23271.0,,2722.0,,,,male,white
+181c6d37-9d8d-4ffa-827b-e3785450ff88,TCGA-EJ-7783,25600.0,,787.0,,,,male,white
+c8fab4a7-fd7e-4d5e-a330-18c7e148b9d0,TCGA-EJ-A7NN,22499.0,,197.0,,,,male,white
+18b8ad7f-0f39-4853-ae13-5b13aa5e6f7d,TCGA-V1-A9OT,,,476.0,,,,male,white
+cccdd4a2-ebf0-482d-b71c-9fe44414eec6,TCGA-YL-A8SR,23488.0,,273.0,,,,male,white
+19cf56b2-a85b-43e7-971f-5680b9b1a67a,TCGA-EJ-5515,22097.0,,1832.0,,,,male,white
+ce2b7e17-424e-4954-8a68-19d7f98d2e7e,TCGA-G9-6496,22602.0,,1726.0,,,,male,white
+1bcb1132-a9fc-4f03-bbed-abaf80c7a24a,TCGA-YL-A9WH,24755.0,,427.0,,,,male,white
+cecf4ee9-7610-4f47-a825-7fde8233b75d,TCGA-KK-A7AQ,22731.0,,1610.0,,,,male,white
+1d2c5f72-cdca-4cc8-8a96-2abe10207356,TCGA-ZG-A9LN,21050.0,,115.0,,,,male,white
+cfcf057a-00fe-4603-a720-586712b75803,TCGA-YL-A9WL,21626.0,,740.0,,,,male,white
+d05681cc-dffa-44d0-b6a1-0a99a4ce3be5,TCGA-KK-A8II,22460.0,,3467.0,,,,male,white
+1e3c1d8f-b3c9-47be-89e4-22e6b16ed2ae,TCGA-KK-A8IG,20266.0,,2505.0,,,,male,white
+1ea3b879-5451-49fb-b930-16e9b5627f18,TCGA-EJ-5505,21164.0,,922.0,,,,male,white
+d1b31524-8034-4fce-b14e-1cef33c26ca5,TCGA-QU-A6IM,21792.0,,1247.0,,,,male,white
+1fd06207-54e0-4aba-819c-c7f671871f39,TCGA-EJ-5516,17980.0,,1889.0,,,,male,white
+d39d1a49-fcc0-4f2c-9338-df904e7f6a09,TCGA-G9-6339,21305.0,,2551.0,,,,male,white
+214884ef-a932-4fc3-b6ff-16ce5164da3e,TCGA-EJ-5522,18802.0,,2079.0,,,,male,white
+d4dc7c5c-45b3-4741-b0c1-fee477da2ef4,TCGA-V1-A9OF,,,1184.0,,,,male,white
+d4f4ddc1-cfd7-4c57-ade6-4f32cb7ffd85,TCGA-KK-A8IK,20594.0,,2052.0,,,,male,white
+23ebc73d-be3b-42f8-9390-bf18a21afc5c,TCGA-YL-A8SL,27033.0,,987.0,,,,male,white
+d57d3254-d8f3-4ca2-8b31-790d3ac9a63d,TCGA-EJ-8474,25561.0,,766.0,,,,male,white
+25c669b3-4d4a-4142-a403-677be8522875,TCGA-KK-A6E7,17074.0,,2760.0,,,,male,not reported
+d7763066-fb06-4519-9188-5de7dd12fdb7,TCGA-EJ-7218,26181.0,,2542.0,,,,male,white
+d7e22af5-88aa-4a83-985c-1d346dff652d,TCGA-YL-A9WY,22139.0,,,,,,male,white
+270447ca-19ee-45a2-982e-032325dab05f,TCGA-HC-8257,25629.0,,726.0,,,,male,black or african american
+27953774-e97b-48e7-b966-1ec1e9c830b4,TCGA-G9-A9S7,20213.0,,728.0,,,,male,white
+d8f56d75-51ab-4a86-a502-c86e1dcd1eff,TCGA-CH-5752,24290.0,,943.0,,,,male,white
+2919afa2-3fee-43bd-ae68-e70718e73608,TCGA-YL-A8SA,25340.0,,512.0,,,,male,white
+2a51e1c2-8a8f-4df3-bcc6-7df94a47d94d,TCGA-KK-A8IL,23849.0,,628.0,,,,male,white
+daa9292e-8012-4aa2-8221-ad65fb1c7b78,TCGA-ZG-A8QZ,23980.0,,308.0,,,,male,white
+2c48b1bf-4e49-4869-874b-f08787fa04b5,TCGA-G9-6338,22360.0,,2028.0,,,,male,white
+db4793dc-cd45-4b81-93ce-8322031c2aa3,TCGA-HC-A631,24749.0,,54.0,,,,male,white
+2d350c73-2a0b-4a3c-8d30-c6fcf6c3ffba,TCGA-HC-7750,18580.0,,522.0,,,,male,white
+dc20ecf0-2807-4675-a7fd-8ead1cee7ea0,TCGA-VP-A87E,21811.0,,2037.0,,,,male,black or african american
+2dee4bd8-b00e-4f8a-bfea-5d8d1a068202,TCGA-CH-5743,24746.0,,,,,,male,white
+dcf383d5-b25a-4ea9-a3f4-4d7ea5ddd9ef,TCGA-KK-A6E4,25338.0,,3502.0,,,,male,black or african american
+2eccaabe-0783-4596-b674-d59846373a1d,TCGA-J9-A52B,22849.0,,422.0,,,,male,white
+2f231b79-84bc-4256-bf26-7ce64083d438,TCGA-KK-A7AW,20869.0,,1054.0,,,,male,black or african american
+deceb7df-6edc-41f0-99aa-c4ac7e764074,TCGA-J9-A8CM,24118.0,,463.0,,,,male,white
+305b0b57-5952-43c7-9063-7bcd954eb44d,TCGA-ZG-A9N3,26902.0,,349.0,,,,male,white
+df3362cb-0f6b-412e-8af4-c5606526be17,TCGA-EJ-A65B,20204.0,,710.0,,,,male,white
+30f623a3-dae7-41da-ab10-8786d094209e,TCGA-FC-A4JI,25931.0,,877.0,,,,male,asian
+30fa311b-05a2-43e4-9edc-02b327898132,TCGA-KK-A8I8,25546.0,,967.0,,,,male,white
+df4a7caa-6289-4157-8cb4-6ce8784e7506,TCGA-EJ-8469,17014.0,,2324.0,,,,male,black or african american
+338fe754-fc4a-4294-ba15-42d4c7c9ac10,TCGA-V1-A9ZR,,,1361.0,,,,male,white
+dffc3917-bf06-4c3d-b03a-ca54fe5c2e79,TCGA-QU-A6IL,23710.0,,97.0,,,,male,asian
+348c2bf3-2146-4990-9adf-fa6968b4f072,TCGA-ZG-A9ND,20428.0,,410.0,,,,male,white
+351239db-52d3-4ab5-bd4f-8feaa6701ba1,TCGA-YL-A8HK,21850.0,,1491.0,,,,male,white
+35243518-b086-4d76-a336-8c61a14f9ded,TCGA-VN-A88M,20157.0,,189.0,,,,male,black or african american
+e27bc39b-54f1-47b5-ac8f-3245dce690f4,TCGA-M7-A723,20064.0,,763.0,,,,male,white
+36b87d12-9f96-460f-a3b5-a4c08cbf5b07,TCGA-G9-6343,22843.0,,2450.0,,,,male,white
+e2b33861-2247-413f-b2e5-9be3b604666c,TCGA-HC-7233,,,1355.0,,,,male,white
+39a5aebe-acad-4141-aa5a-66228c4049f8,TCGA-XJ-A9DI,,,1461.0,,,,male,white
+3a6e0fd1-6e06-4002-9d1a-88edf7944567,TCGA-KC-A7F5,20015.0,,91.0,,,,male,white
+e5e4d3b6-8e58-4dcf-8f67-a00e656a8e27,TCGA-EJ-5506,24617.0,,1381.0,,,,male,white
+3d92b872-a76a-49cd-9fd5-7993e78d2fb0,TCGA-V1-A9ZI,,,1640.0,,,,male,white
+3da2e90e-6450-4286-8c74-08dbecbfd788,TCGA-HC-7081,,,1136.0,,,,male,white
+e8f39c9e-0f1a-401c-9055-762b52bc77c7,TCGA-ZG-A9L5,21293.0,,908.0,,,,male,white
+3f3128c9-1072-443c-b6ae-8b63166fa9a4,TCGA-KC-A7FA,23208.0,,598.0,,,,male,white
+e9a4c770-665f-454b-81f7-b8ae3f1e154e,TCGA-VN-A88N,22695.0,,766.0,,,,male,white
+3fa3cffe-40f1-4853-9cbb-54a99ffd6108,TCGA-M7-A722,23880.0,,1060.0,,,,male,white
+ea953ce5-7082-41ff-8e38-760fe4100414,TCGA-VP-AA1N,25781.0,,1365.0,,,,male,white
+3fae5b76-9e22-4eab-a7fc-13139b2b97c4,TCGA-HC-A6AN,24697.0,,49.0,,,,male,white
+eb80244a-5f20-49a8-8f73-e92c14395895,TCGA-J9-A8CK,24285.0,,321.0,,,,male,white
+4045f40b-d42a-4598-9ee2-0d371a776d3f,TCGA-HC-A6AO,19298.0,,530.0,,,,male,white
+4048c139-1329-4e6a-8d2f-c0aa104a68ee,TCGA-EJ-5524,21119.0,,,,,,male,white
+ecade538-f882-4f29-a363-7acb89fd0576,TCGA-H9-7775,24898.0,,185.0,,,,male,white
+ed7084f8-060c-4780-8b35-a03a5eab9684,TCGA-XK-AAJU,23958.0,,1576.0,,,,male,white
+42fa9774-9471-4707-8f6f-8041b34c49e4,TCGA-YL-A8SC,24206.0,,1261.0,,,,male,white
+eec48399-5660-4b25-8d34-191b54315c72,TCGA-EJ-5526,20558.0,,1909.0,,,,male,white
+433d1441-6d5b-4455-a731-65f172bb016d,TCGA-HC-A9TH,21460.0,,844.0,,,,male,white
+eff14fed-8a21-41c5-8ed3-75346a06e44e,TCGA-YL-A8HM,24121.0,,1482.0,,,,male,white
+444e78f7-1221-4882-ade2-7e45d828ea2a,TCGA-M7-A720,19642.0,,384.0,,,,male,white
+f06c1ef4-bedd-4025-abf8-06f5e9c0821a,TCGA-ZG-A8QW,26632.0,,94.0,,,,male,white
+47abcd03-c6ff-4777-ac26-f880474092ff,TCGA-4L-AA1F,23665.0,,350.0,,,,male,white
+f16ce517-d51d-499a-a4c4-a6844fefa52c,TCGA-HC-8261,17874.0,,546.0,,,,male,black or african american
+48f36fbe-356a-40af-b81f-8ea0b1369bab,TCGA-VP-A878,21402.0,,3130.0,,,,male,white
+f228ef91-ecfb-4d1e-8e6a-b43d2185270e,TCGA-G9-6362,21149.0,,1443.0,,,,male,white
+494a8495-8d10-4a8f-8664-f68ac339c889,TCGA-YL-A8S8,25119.0,,1890.0,,,,male,white
+f3aa40b9-7b4d-465a-b7c9-591aebdb56c2,TCGA-HC-7817,19207.0,,928.0,,,,male,white
+f3ec5bf3-97ae-4033-91a6-084a1aa152a4,TCGA-YL-A8SJ,21916.0,,1395.0,,,,male,white
+f4aebd64-a356-4c05-b847-6dd28cf26339,TCGA-KK-A7AY,22220.0,,1754.0,,,,male,white
+4c197d76-daf6-474d-b561-ded42905f52a,TCGA-KK-A59Y,20768.0,,1968.0,,,,male,white
+4d5d61c4-2e64-422e-aba6-ec098f40eeec,TCGA-M7-A71Z,22785.0,,643.0,,,,male,white
+f4f81316-c99a-4a88-aa6c-e66fc5d60c53,TCGA-V1-A8MJ,,,1791.0,,,,male,black or african american
+4e76de8e-cb0d-4b83-8ab4-53bc67a7a9d3,TCGA-CH-5744,23621.0,,60.0,,,,male,white
+4ef24cca-976b-4c2f-8810-4339967da570,TCGA-EJ-A6RA,26032.0,,,,,,male,white
+4f9f1fce-d96e-407b-a873-56129985aece,TCGA-CH-5737,26753.0,,91.0,,,,male,white
+f7238e82-a394-4a7c-8514-6241d0aa17e3,TCGA-FC-A5OB,19413.0,,680.0,,,,male,white
+5277f041-f9fb-47c2-83f3-65ad230dd40a,TCGA-XQ-A8TB,24623.0,,770.0,,,,male,white
+f82d53b1-3df8-4249-a615-464c9f4e0a32,TCGA-EJ-5514,24165.0,,1829.0,,,,male,white
+5447a0e0-80ca-40fb-8233-504fde51f22c,TCGA-KK-A7B4,19025.0,,,,,,male,white
+f8b98552-ae2a-4609-9929-7864485b3c51,TCGA-M7-A724,23595.0,,889.0,,,,male,white
+56829c8d-7bb7-4aac-999f-b1353db4915d,TCGA-X4-A8KS,22571.0,,979.0,,,,male,black or african american
+f97fed28-fdf3-4c82-8b6d-1015848b80dc,TCGA-FC-A6HD,28197.0,,789.0,,,,male,white
+56df9de6-613d-44ce-8827-9213cc6c8b56,TCGA-V1-A8MF,,,1449.0,,,,male,black or african american
+f9f136a5-3ccb-42b3-ba60-c667fbb0846d,TCGA-J4-A6G1,24945.0,,769.0,,,,male,white
+fadd80e3-8087-4494-a8f0-1caa92acbb67,TCGA-J4-AATV,25943.0,,553.0,,,,male,white
+fb447e0f-7cf0-49bf-8b15-aae932f8094d,TCGA-HC-8266,20280.0,,473.0,,,,male,white
+582d1177-73b0-4a9c-8505-70d6b402bd01,TCGA-HC-7209,22129.0,,440.0,,,,male,white
+58c27028-f37c-4cf1-b134-bd9aec9bf170,TCGA-XJ-A83H,,,1280.0,,,,male,white
+fca0331b-8096-40e8-b292-d438370c37c9,TCGA-M7-A725,20474.0,,573.0,,,,male,white
+5a4d8694-947d-45e9-9a21-6de0f63837f0,TCGA-XJ-A9DK,,,275.0,,,,male,white
+fcf64b55-5c4f-4d82-ac6a-4713d01143cb,TCGA-VN-A88R,19513.0,,784.0,,,,male,black or african american
+5b12458b-f5d7-41de-a4e1-26d39dca9b17,TCGA-J9-A8CP,24299.0,,386.0,,,,male,white
+5d8c9b90-8d40-4cdd-900d-03681bc2d2a6,TCGA-XJ-A9DQ,,,91.0,,,,male,white
+fd50ff41-ec9d-4db1-a673-36ba0ca1eac8,TCGA-HC-7080,25137.0,,,,,,male,white
+5dd69c3e-9a3d-450c-9f10-10b4d6daeeba,TCGA-HC-7075,,,601.0,,,,male,white
+ff49e0f9-4007-4761-845e-b676b0fc9646,TCGA-HC-A48F,17434.0,,680.0,,,,male,white
+5e2ff1e6-87bc-4b91-a959-f0f553af4e27,TCGA-EJ-7318,19066.0,,,,,,male,white
+5e3d0e50-afb4-4d2d-b4d9-5f320c573ba3,TCGA-YL-A8SO,23584.0,,3479.0,,,,male,white
+5e7a7629-800a-45c4-b4cb-314a853a1bec,TCGA-ZG-A9L2,25573.0,,1154.0,,,,male,white
+5f69ca7d-f8e0-4f5b-9987-1e5c234eb759,TCGA-HC-A76W,26755.0,,213.0,,,,male,white
+607200f5-df80-4f5d-90fb-fdc455a7415b,TCGA-EJ-5507,19759.0,,1457.0,,,,male,white
+607fd22b-f281-431b-848e-ae01e69567e2,TCGA-EJ-A7NG,23458.0,,432.0,,,,male,white
+666d8b0c-593f-4ec3-b16a-2dadbead8c32,TCGA-YL-A8HJ,21416.0,,1611.0,,,,male,white
+6755c231-355f-4cc3-85f1-6306c7f5d44b,TCGA-EJ-5496,21897.0,,595.0,,,,male,white
+67cd72e2-a4cf-48e4-943e-406c252f056a,TCGA-J4-A67M,20211.0,,941.0,,,,male,white
+6845076e-e940-4437-8618-81db4a447544,TCGA-G9-6365,26207.0,,1363.0,,,,male,white
+68fc3693-0910-4ee8-8997-99c6333b65f4,TCGA-EJ-7317,26064.0,,771.0,,,,male,white
+69174712-af41-422d-952a-d8d0d16d7182,TCGA-V1-A8ML,,,448.0,,,,male,black or african american
+698ce9a9-6512-4fb8-a574-a26ee259414c,TCGA-HC-7738,21195.0,,964.0,,,,male,white
+6a5af80e-07ad-4cd3-aaab-5db1090835d9,TCGA-HC-7210,27343.0,,868.0,,,,male,white
+6bbbe263-3632-4567-912c-95bc9940a1dd,TCGA-G9-6354,20403.0,,2066.0,,,,male,asian
+6e3154d4-2ef6-403d-9de1-7b6233c4d505,TCGA-KK-A8I6,21499.0,,668.0,,,,male,white
+6ef0fc2d-f274-4253-bec5-6dbd55953d76,TCGA-V1-A9OH,,,2403.0,,,,male,white
+6f4c1006-519d-4b16-8c96-690c63bea0b6,TCGA-TP-A8TV,22872.0,,610.0,,,,male,white
+701991da-6deb-41df-b9cc-e5049a886b5b,TCGA-H9-A6BY,23297.0,,112.0,,,,male,white
+70c6c3a0-b422-4541-a60f-355356a9a340,TCGA-KK-A8IC,19902.0,,2051.0,,,,male,white
+716eb429-d7af-4d4f-bd8d-afcff1a323ee,TCGA-CH-5765,20364.0,,700.0,,,,male,white
+717c0fd3-527b-4d5e-a9ab-0f141fcc84e8,TCGA-KK-A8ID,25851.0,,2107.0,,,,male,not reported
+720d77bc-58e3-42ee-aae7-5de586c2ac41,TCGA-XK-AAJP,24320.0,,1259.0,,,,male,white
+721e76d0-4b1d-4e78-adb8-1344b8030062,TCGA-CH-5751,25322.0,,,,,,male,white
+7315bb0a-96a1-45ab-a704-b084d237cf5c,TCGA-KK-A7B1,23803.0,,1063.0,,,,male,white
+73b7d4bc-6b56-4ae8-be7f-074745563bee,TCGA-J4-AATZ,24226.0,,412.0,,,,male,asian
+73d4e806-2c15-4c9e-a978-106fb9494e82,TCGA-KK-A7B0,24756.0,,1329.0,,,,male,white
+73f875cb-bcfc-43ba-ab97-4e94caf836d4,TCGA-HC-7737,20122.0,,1090.0,,,,male,black or african american
+743ffc51-d613-407f-b040-e99969c31802,TCGA-EJ-AB20,22626.0,,131.0,,,,male,Unknown
+74602e83-3ee3-4ee7-b05a-135fbdddcc5c,TCGA-VN-A88L,20026.0,,746.0,,,,male,white
+7466d120-6a6e-40a0-96d3-4979816d6278,TCGA-FC-A66V,27282.0,,524.0,,,,male,white
+74de01bd-30d9-45fc-841d-ed1c0d7446ba,TCGA-YJ-A8SW,,,148.0,,,,male,Unknown
+75a7afb5-66d5-47e3-8a8a-3e3a1e749a96,TCGA-2A-A8VV,19065.0,,671.0,,,,male,Unknown
+75d22d59-dec8-4f59-86c8-36b5e9f4fb0d,TCGA-VP-A876,16934.0,,3333.0,,,,male,white
+79601d90-b198-4b94-b60f-4cff329c7a10,TCGA-CH-5739,23953.0,,671.0,,,,male,white
+79ec7468-9aaf-4bb0-94c7-72be4f497868,TCGA-EJ-5498,20472.0,,1720.0,,,,male,white
+7bc369b7-007b-4b10-bd92-5d326dabf675,TCGA-EJ-7330,25050.0,,191.0,,,,male,white
+7c398299-d789-4185-adfa-194817877947,TCGA-VP-A87C,24608.0,,1690.0,,,,male,black or african american
+7c40c747-5000-4f66-aab5-c53fb96337cb,TCGA-KC-A7FE,22718.0,,352.0,,,,male,white
+7ce45134-5b1f-4ea7-ace9-7e463b034a43,TCGA-KK-A8I5,20337.0,,3096.0,,,,male,black or african american
+7d0c6960-710f-42c7-889e-c3a7d4a30b3c,TCGA-G9-7509,17538.0,,1610.0,,,,male,black or african american
+7d931c19-1fce-4409-8a9c-9c65631ccbac,TCGA-KK-A7AZ,20507.0,,1519.0,,,,male,white
+7dc62c0f-b82d-417f-89a7-4cb984a9d304,TCGA-V1-A9ZK,,,1383.0,,,,male,white
+7eea6fd7-733c-44eb-b4b7-50bb3a2628a0,TCGA-FC-A8O0,25115.0,,616.0,,,,male,white
+7efc26b2-eff9-4f1e-9f4b-f26af072c84a,TCGA-ZG-A9MC,25477.0,,455.0,,,,male,white
+7fc65e49-0401-4a36-8800-fd87b7927fc1,TCGA-VP-A872,22098.0,,3631.0,,,,male,white
+827caf2c-a94b-4eee-86b3-1155a16daf4a,TCGA-KC-A7F3,24676.0,,665.0,,,,male,white
+84a5d5fc-7350-4846-a1bc-8bfadbcff8dc,TCGA-XJ-A9DX,,,973.0,,,,male,american indian or alaska native
+854a481b-71a2-4f23-80aa-e91e9f4069b1,TCGA-CH-5761,22433.0,,28.0,,,,male,white
+8631bb5e-6d08-4c20-a85e-cb84f5dac290,TCGA-EJ-A65F,21681.0,,560.0,,,,male,white
+86b82965-b19b-4285-b1a5-51a5d5267103,TCGA-V1-A8X3,,,202.0,,,,male,white
+8740555d-8bf0-40ba-b868-99eef27662a4,TCGA-HC-8264,22177.0,,48.0,,,,male,white
+87959988-bb25-47ee-afc1-9af92592bbe7,TCGA-G9-7522,18033.0,,1078.0,,,,male,white
+88658b66-f293-4aff-9e33-05abfafd3b43,TCGA-KC-A7FD,22745.0,,270.0,,,,male,white
+88705b03-aa27-45c5-bef0-bb697799f9df,TCGA-KK-A8IB,24041.0,,83.0,,,,male,white
+88c87cce-4361-499c-9e3a-e9d9040af2db,TCGA-EJ-7314,22766.0,,1150.0,,,,male,white
+8990ce28-c671-4487-8dda-864f0675bbb3,TCGA-KK-A6E8,25026.0,,1770.0,,,,male,white
+89a297be-ebb5-4b9f-8eda-0e548d14ad91,TCGA-HC-8256,19598.0,,860.0,,,,male,black or african american
+89afdebe-456e-4128-8902-1001876a2106,TCGA-HC-8216,21428.0,,682.0,,,,male,white
+89b995ba-d13a-461b-ade4-d791844c1a0c,TCGA-KK-A8IH,18560.0,,2013.0,,,,male,white
+89c150cf-f60c-4f11-8f3e-384b0e0902f9,TCGA-EJ-A65J,22122.0,,,,,,male,white
+8a5f2d7f-835c-4726-b238-f82d6a7f25bd,TCGA-CH-5792,21002.0,,91.0,,,,male,white
+8ad78c4f-c84c-4f9e-88c9-42a05eb65498,TCGA-G9-6348,24936.0,,1515.0,,,,male,white
+8bfac5b9-fa2b-4b6e-9537-e9d8a2f0d1dc,TCGA-EJ-A65G,20821.0,,666.0,,,,male,white
+8c0d361f-eaab-4768-90f2-b7a610e2bbb1,TCGA-2A-AAYO,21183.0,,1272.0,,,,male,white
+8cc7679d-b963-4b45-b3f8-dcf80ea6cc71,TCGA-J4-A83L,22338.0,,720.0,,,,male,white
+8dc53431-44ab-485e-b4e6-c3d06509506d,TCGA-CH-5767,24287.0,,458.0,,,,male,white
+8e1ff72b-f1db-4bf9-a8d3-f422e25a65e1,TCGA-EJ-A65D,24297.0,,393.0,,,,male,white
+8e5b1d47-7d92-4d28-8186-4176ada96672,TCGA-V1-A8WV,,,686.0,,,,male,white
+9044098b-415d-4893-a682-3636f6b2b2db,TCGA-EJ-A8FS,24380.0,,266.0,,,,male,white
+907b64d6-a26a-4092-a247-ac9af444d1c7,TCGA-HC-7212,20576.0,,870.0,,,,male,white
+91e249a6-b0b0-487e-9fad-0e9f5798dcae,TCGA-HC-7740,21883.0,,717.0,,,,male,white
+92252560-5984-41f6-a4b5-a3aa8654c0c8,TCGA-HC-7077,23636.0,,2115.0,,,,male,black or african american
+922e5166-85f5-4365-9c09-f8bdc1722da6,TCGA-HC-7736,21703.0,,1103.0,,,,male,white
+92f45022-ee76-418d-8f9e-c3509efda0c0,TCGA-VN-A943,26162.0,,496.0,,,,male,white
+931b549f-b9f2-4e8d-83ed-ff663671883c,TCGA-2A-A8VT,17365.0,,1373.0,,,,male,asian
+931feb14-3f69-41c1-8435-5fd4fb775bdf,TCGA-HI-7171,20776.0,,1329.0,,,,male,white
+9357e8eb-1ce5-4c0f-a668-e5e7f3031d6c,TCGA-ZG-A9LM,26377.0,,378.0,,,,male,white
+93d10d8b-5f98-4d2c-8af3-11471385d4d4,TCGA-EJ-A46D,19466.0,,626.0,,,,male,white
+93e78f4c-e74b-4675-8d2c-d641fa25d8f2,TCGA-G9-7523,16269.0,,857.0,,,,male,black or african american
+942f1788-d977-4ac0-a177-659f9d4cd077,TCGA-2A-A8VX,25904.0,,1378.0,,,,male,white
+94d6675e-27ae-4f34-9d53-6e19238eb01d,TCGA-V1-A8MM,,,1195.0,,,,male,black or african american
+962dd3d5-8501-4658-8cb9-2424b476124c,TCGA-EJ-5495,24904.0,,1760.0,,,,male,white
+969399cd-47b6-4c0f-8939-3860be3014f9,TCGA-EJ-A46G,26219.0,,668.0,,,,male,white
+98240f19-bca7-4001-8aa2-4d790c7c4c53,TCGA-J4-A83J,24960.0,,696.0,,,,male,white
+98a9ce0e-4f02-4819-bc0c-c1a8d34e3db6,TCGA-KK-A8IJ,22100.0,,,,,,male,white
+9938c4ad-748c-4086-9081-fac0aefad440,TCGA-V1-A8MK,,,508.0,,,,male,black or african american
+9a05aa6d-6215-4584-90fc-09a0371a19ed,TCGA-KC-A4BO,20368.0,,607.0,,,,male,black or african american
+9a8caef5-6543-4391-8a55-4999035693c5,TCGA-KK-A8I4,24868.0,,,,,,male,white
+9a8e27c9-614b-491f-913d-429dfc4e2c4d,TCGA-QU-A6IP,24212.0,,2620.0,,,,male,white
+9b59ed95-e97f-4356-b976-e3fa0e9eee02,TCGA-EJ-A46I,21046.0,,668.0,,,,male,black or african american
+9b5d36b2-8b46-48a4-afa7-0e1936f2d315,TCGA-ZG-A9M4,24030.0,,547.0,,,,male,white
+9b84601b-ee05-4c15-afe3-7bfa7ca5ffac,TCGA-HC-7752,22366.0,,782.0,,,,male,white
+9bf4e7bb-6aa9-4be8-a7c3-e630ecff4dce,TCGA-V1-A9Z8,,,827.0,,,,male,white
+9c8447ac-5b26-4558-8bfd-f0e7046c1fb9,TCGA-MG-AAMC,21846.0,,173.0,,,,male,white
+9d499039-37ca-4300-ae95-04bbe007c0d2,TCGA-EJ-7786,22793.0,,1096.0,,,,male,white
+9e48644f-d498-42b0-871b-d11f676241e2,TCGA-KK-A59V,23483.0,,3440.0,,,,male,white
+9f751c9d-ad41-4f02-b7f8-12423857d418,TCGA-G9-6367,22176.0,,1222.0,,,,male,white
+9f802576-1e98-496c-bda4-4b1dd2e411c8,TCGA-HC-7078,25402.0,,1985.0,,,,male,white
+9fe9cbae-37b9-4030-a204-4502760f5dab,TCGA-J4-A67S,23332.0,,833.0,,,,male,white
+a08fd0a6-a89a-4adb-b641-d4c1238abb71,TCGA-G9-6329,24797.0,,1266.0,,,,male,white
+a13a7252-de84-4950-9307-80fc8a6a668d,TCGA-TP-A8TT,23476.0,,526.0,,,,male,white
+a186c956-6756-4339-9793-494fe9b80c94,TCGA-VN-A88K,21524.0,,776.0,,,,male,white
+a1e64294-1264-498d-b18b-c9b4c729c2f2,TCGA-J4-8198,17935.0,,614.0,,,,male,black or african american
+a279d5aa-51f7-4e75-9e14-b206b97ec4bd,TCGA-G9-6384,19620.0,,765.0,,,,male,white
+a3a4a518-2dac-4846-9476-1aa7e0c1fb5e,TCGA-XK-AAJR,22643.0,,1124.0,,,,male,white
+a3cd3599-7c18-491d-be09-6fc7e526c9b1,TCGA-HC-7820,26576.0,,747.0,,,,male,white
+a468353e-0a96-4a4d-8aef-5140bf1bf952,TCGA-YL-A9WX,25008.0,,1518.0,,,,male,white
+a5c77ab6-6e98-4a3d-81c8-f3d5fabd31d2,TCGA-CH-5766,20392.0,,31.0,,,,male,white
+a6d467cf-6783-4885-8de5-95d32e922500,TCGA-ZG-A8QY,24731.0,,404.0,,,,male,white
+a7045324-cb44-4b37-bbaf-641642c1d903,TCGA-Y6-A8TL,23776.0,,992.0,,,,male,Unknown
+a76bcd1f-e47f-4dc5-a97a-4c4f00032191,TCGA-V1-A8MU,,,1876.0,,,,male,black or african american
+a7b76662-8380-4f35-9307-99c0acacb904,TCGA-CH-5769,17807.0,,62.0,,,,male,white
+a80d3ee7-60dd-49bb-b049-9335afc035f5,TCGA-CH-5794,23924.0,,882.0,,,,male,white
+a8396f6d-53e2-4664-a3e2-df061d022108,TCGA-V1-A9OA,,,636.0,,,,male,white
+a8573f49-9fed-4c85-9e1d-40abab7f86ec,TCGA-G9-A9S4,22684.0,,906.0,,,,male,white
+a8c954b7-3077-4ff1-b311-d4b4bfa49786,TCGA-KC-A4BV,24138.0,,1328.0,,,,male,asian
+610603d0-43fb-4a4e-b368-d143e6c61802,TCGA-ZG-A9LU,24742.0,,579.0,,,,male,white
+618272c0-c2ed-4bfb-bb4b-404f0987f822,TCGA-CH-5746,20941.0,,731.0,,,,male,white
+629855ea-551e-456c-b421-83b9a4eb3269,TCGA-KK-A59X,20416.0,,2535.0,,,,male,black or african american
+6394e00a-1f6f-4ea2-b885-373bbb59def9,TCGA-HI-7170,21199.0,,2522.0,,,,male,white
+6433f001-db5c-476b-83c7-23f4c5397ae9,TCGA-M7-A721,25585.0,,400.0,,,,male,white
+64bf32c9-9466-404a-a147-e7a0b9e91e34,TCGA-G9-6333,24249.0,,2465.0,,,,male,white
+661dc657-d2b3-44fa-b859-2c4ee42b0046,TCGA-VP-A87H,28060.0,,663.0,,,,male,white
+6641a298-1dbd-445d-a4ab-95ceb98e1427,TCGA-HC-7745,24078.0,,721.0,,,,male,white

@@ -1,0 +1,34 @@
+name: robust-at
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  # ── Numerics ────────────────────────────────────────────────────────────────
+  - numpy>=1.24
+  - scipy>=1.10
+  - pandas>=2.0
+  - scikit-learn>=1.3
+  # ── Plotting ────────────────────────────────────────────────────────────────
+  - matplotlib>=3.7
+  # ── Notebooks / Dev ─────────────────────────────────────────────────────────
+  - jupyter
+  - ipykernel
+  - ipywidgets
+  # ── Testing ─────────────────────────────────────────────────────────────────
+  - pytest>=7
+  - pytest-cov
+  # ── Utilities ───────────────────────────────────────────────────────────────
+  - tqdm
+  - openpyxl>=3.1         # read .xlsx trial data (Cunningham eLife 2022)
+  - requests>=2.28        # HTTP API calls (PharmacoDB, GDC, cBioPortal)
+  - urllib3>=2.0
+  # ── Optimization ────────────────────────────────────────────────────────────
+  - cvxpy>=1.3
+  # ── Survival analysis ───────────────────────────────────────────────────────
+  - lifelines>=0.27
+  # ── pip-only packages ───────────────────────────────────────────────────────
+  - pip
+  - pip:
+    - httpx>=0.25          # async-capable HTTP client for batch API requests

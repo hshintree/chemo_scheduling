@@ -1,0 +1,8 @@
+patient_id,parameter,unit,nominal,ci_5th,ci_95th,cv_%,n_successful,nominal_rmse
+synthetic_000,r_plus,day⁻¹,0.009882,0.005561,0.011262,26.5,5,0.2975
+synthetic_000,r_prod,day⁻¹,0.010526,0.004989,0.013844,35.1,5,0.2975
+synthetic_000,r_minus,day⁻¹,0.011746,0.005849,0.01481,33.0,5,0.2975
+synthetic_000,delta_plus,day⁻¹,0.128913,0.066312,0.126053,25.2,5,0.2975
+synthetic_000,T0_plus,cells,5000.000037,5000.000023,6370.224815,12.1,5,0.2975
+synthetic_000,T0_prod,cells,500.000123,400.242028,500.000154,9.7,5,0.2975
+synthetic_000,T0_minus,cells,50.003773,50.004089,61.548475,10.8,5,0.2975

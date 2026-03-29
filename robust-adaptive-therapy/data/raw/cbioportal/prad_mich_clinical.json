@@ -1,0 +1,5161 @@
+[
+  {
+    "uniquePatientKey": "VDg6cHJhZF9taWNo",
+    "patientId": "T8",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "61.0"
+  },
+  {
+    "uniquePatientKey": "VDg6cHJhZF9taWNo",
+    "patientId": "T8",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDg6cHJhZF9taWNo",
+    "patientId": "T8",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDg6cHJhZF9taWNo",
+    "patientId": "T8",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "5.7"
+  },
+  {
+    "uniquePatientKey": "VDg6cHJhZF9taWNo",
+    "patientId": "T8",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDEyOnByYWRfbWljaA",
+    "patientId": "T12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "62.0"
+  },
+  {
+    "uniquePatientKey": "VDEyOnByYWRfbWljaA",
+    "patientId": "T12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDEyOnByYWRfbWljaA",
+    "patientId": "T12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDEyOnByYWRfbWljaA",
+    "patientId": "T12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "5.3"
+  },
+  {
+    "uniquePatientKey": "VDEyOnByYWRfbWljaA",
+    "patientId": "T12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDMyOnByYWRfbWljaA",
+    "patientId": "T32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "54.0"
+  },
+  {
+    "uniquePatientKey": "VDMyOnByYWRfbWljaA",
+    "patientId": "T32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDMyOnByYWRfbWljaA",
+    "patientId": "T32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDMyOnByYWRfbWljaA",
+    "patientId": "T32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "10.1"
+  },
+  {
+    "uniquePatientKey": "VDMyOnByYWRfbWljaA",
+    "patientId": "T32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDkwOnByYWRfbWljaA",
+    "patientId": "T90",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "60.0"
+  },
+  {
+    "uniquePatientKey": "VDkwOnByYWRfbWljaA",
+    "patientId": "T90",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDkwOnByYWRfbWljaA",
+    "patientId": "T90",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDkwOnByYWRfbWljaA",
+    "patientId": "T90",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "27.1"
+  },
+  {
+    "uniquePatientKey": "VDkwOnByYWRfbWljaA",
+    "patientId": "T90",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDkxOnByYWRfbWljaA",
+    "patientId": "T91",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "55.0"
+  },
+  {
+    "uniquePatientKey": "VDkxOnByYWRfbWljaA",
+    "patientId": "T91",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDkxOnByYWRfbWljaA",
+    "patientId": "T91",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDkxOnByYWRfbWljaA",
+    "patientId": "T91",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "6.5"
+  },
+  {
+    "uniquePatientKey": "VDkxOnByYWRfbWljaA",
+    "patientId": "T91",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDkyOnByYWRfbWljaA",
+    "patientId": "T92",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "55.0"
+  },
+  {
+    "uniquePatientKey": "VDkyOnByYWRfbWljaA",
+    "patientId": "T92",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDkyOnByYWRfbWljaA",
+    "patientId": "T92",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDkyOnByYWRfbWljaA",
+    "patientId": "T92",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "5.7"
+  },
+  {
+    "uniquePatientKey": "VDkyOnByYWRfbWljaA",
+    "patientId": "T92",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDkzOnByYWRfbWljaA",
+    "patientId": "T93",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "VDkzOnByYWRfbWljaA",
+    "patientId": "T93",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDkzOnByYWRfbWljaA",
+    "patientId": "T93",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDkzOnByYWRfbWljaA",
+    "patientId": "T93",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "4.2"
+  },
+  {
+    "uniquePatientKey": "VDkzOnByYWRfbWljaA",
+    "patientId": "T93",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDk0OnByYWRfbWljaA",
+    "patientId": "T94",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "58.0"
+  },
+  {
+    "uniquePatientKey": "VDk0OnByYWRfbWljaA",
+    "patientId": "T94",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDk0OnByYWRfbWljaA",
+    "patientId": "T94",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDk0OnByYWRfbWljaA",
+    "patientId": "T94",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "20.3"
+  },
+  {
+    "uniquePatientKey": "VDk0OnByYWRfbWljaA",
+    "patientId": "T94",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDk1OnByYWRfbWljaA",
+    "patientId": "T95",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "59.0"
+  },
+  {
+    "uniquePatientKey": "VDk1OnByYWRfbWljaA",
+    "patientId": "T95",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDk1OnByYWRfbWljaA",
+    "patientId": "T95",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDk1OnByYWRfbWljaA",
+    "patientId": "T95",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "15.0"
+  },
+  {
+    "uniquePatientKey": "VDk1OnByYWRfbWljaA",
+    "patientId": "T95",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDk2OnByYWRfbWljaA",
+    "patientId": "T96",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "65.0"
+  },
+  {
+    "uniquePatientKey": "VDk2OnByYWRfbWljaA",
+    "patientId": "T96",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDk2OnByYWRfbWljaA",
+    "patientId": "T96",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDk2OnByYWRfbWljaA",
+    "patientId": "T96",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "4.9"
+  },
+  {
+    "uniquePatientKey": "VDk2OnByYWRfbWljaA",
+    "patientId": "T96",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "VDk3OnByYWRfbWljaA",
+    "patientId": "T97",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "70.0"
+  },
+  {
+    "uniquePatientKey": "VDk3OnByYWRfbWljaA",
+    "patientId": "T97",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "0:LIVING"
+  },
+  {
+    "uniquePatientKey": "VDk3OnByYWRfbWljaA",
+    "patientId": "T97",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDk3OnByYWRfbWljaA",
+    "patientId": "T97",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "15.0"
+  },
+  {
+    "uniquePatientKey": "VDk3OnByYWRfbWljaA",
+    "patientId": "T97",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "53.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "14.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "1500.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "9.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "14.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzOnByYWRfbWljaA",
+    "patientId": "WA3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "66.0"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "64.0"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "8083.0"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "19.0"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "48.0"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E3OnByYWRfbWljaA",
+    "patientId": "WA7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "78.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "84.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "130.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "7.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "24.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMDpwcmFkX21pY2g",
+    "patientId": "WA10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "67.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "39.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "35.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "5.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "17.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMTpwcmFkX21pY2g",
+    "patientId": "WA11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "79.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "60.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "230.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "16.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "60.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMjpwcmFkX21pY2g",
+    "patientId": "WA12",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "132.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "407.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "23.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "132.0"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExMzpwcmFkX21pY2g",
+    "patientId": "WA13",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "76.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "180.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "3771.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "18.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "96.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNDpwcmFkX21pY2g",
+    "patientId": "WA14",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "74.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "15.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "799.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "2.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "7.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNTpwcmFkX21pY2g",
+    "patientId": "WA15",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "37.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "2300.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "15.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "37.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNjpwcmFkX21pY2g",
+    "patientId": "WA16",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "75.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "33.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "249.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "13.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "32.0"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExNzpwcmFkX21pY2g",
+    "patientId": "WA17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "62.0"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "156.0"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "7336.0"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "15.0"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "72.0"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExODpwcmFkX21pY2g",
+    "patientId": "WA18",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "85.0"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "120.0"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "235.0"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "29.0"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "120.0"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0ExOTpwcmFkX21pY2g",
+    "patientId": "WA19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "67.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "96.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "181.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "14.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "88.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMDpwcmFkX21pY2g",
+    "patientId": "WA20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "64.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "30.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "23.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "9.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "30.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyMjpwcmFkX21pY2g",
+    "patientId": "WA22",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "73.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "96.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "324.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "44.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "72.0"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyMzpwcmFkX21pY2g",
+    "patientId": "WA23",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "76.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "54.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "11.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "9.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "22.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNDpwcmFkX21pY2g",
+    "patientId": "WA24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "66.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "33.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "509.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "0.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "27.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNTpwcmFkX21pY2g",
+    "patientId": "WA25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "76.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "156.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "2239.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "47.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "96.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNjpwcmFkX21pY2g",
+    "patientId": "WA26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "74.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "105.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "1698.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "11.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "85.0"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyNzpwcmFkX21pY2g",
+    "patientId": "WA27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "80.0"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "180.0"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "1725.0"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "61.0"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "179.0"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyODpwcmFkX21pY2g",
+    "patientId": "WA28",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "77.0"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "120.0"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "19.0"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "8.0"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "120.0"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EyOTpwcmFkX21pY2g",
+    "patientId": "WA29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "42.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "1040.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "41.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMDpwcmFkX21pY2g",
+    "patientId": "WA30",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "63.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "97.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "252.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "73.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "88.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMTpwcmFkX21pY2g",
+    "patientId": "WA31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "81.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "156.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "5222.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "26.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "156.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMjpwcmFkX21pY2g",
+    "patientId": "WA32",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "58.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "105.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "3220.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "73.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "105.0"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzMzpwcmFkX21pY2g",
+    "patientId": "WA33",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "109.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "72.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "11.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "109.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzNTpwcmFkX21pY2g",
+    "patientId": "WA35",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "63.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "41.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "928.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "40.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "39.0"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzNzpwcmFkX21pY2g",
+    "patientId": "WA37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "77.0"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "131.0"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "382.0"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "32.0"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "78.0"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzODpwcmFkX21pY2g",
+    "patientId": "WA38",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "168.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "269.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "123.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "84.0"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0EzOTpwcmFkX21pY2g",
+    "patientId": "WA39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "76.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "47.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "1294.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "44.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "45.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MDpwcmFkX21pY2g",
+    "patientId": "WA40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "70.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "108.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "257.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "35.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "78.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MTpwcmFkX21pY2g",
+    "patientId": "WA41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "61.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "60.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "3776.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "30.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "42.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MjpwcmFkX21pY2g",
+    "patientId": "WA42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "52.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "70.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "3"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "40.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "60.0"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0MzpwcmFkX21pY2g",
+    "patientId": "WA43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "71.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "69.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "189.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "30.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "69.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NjpwcmFkX21pY2g",
+    "patientId": "WA46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "64.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "46.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "12.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "43.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "45.0"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0NzpwcmFkX21pY2g",
+    "patientId": "WA47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "82.0"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "158.0"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "308.0"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "120.0"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "105.0"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0ODpwcmFkX21pY2g",
+    "patientId": "WA48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "68.0"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "98.0"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "491.0"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "73.0"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "81.0"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E0OTpwcmFkX21pY2g",
+    "patientId": "WA49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "78.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "192.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "74.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "113.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "110.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MDpwcmFkX21pY2g",
+    "patientId": "WA50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "65.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "133.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "57.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "120.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "122.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MTpwcmFkX21pY2g",
+    "patientId": "WA51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "80.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "160.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "194.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "65.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "117.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MjpwcmFkX21pY2g",
+    "patientId": "WA52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "68.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "56.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "312.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "38.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "54.0"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1MzpwcmFkX21pY2g",
+    "patientId": "WA53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "73.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "162.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "102.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "22.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "66.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NDpwcmFkX21pY2g",
+    "patientId": "WA54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "72.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "52.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "657.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "35.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "50.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1NTpwcmFkX21pY2g",
+    "patientId": "WA55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "79.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "218.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "353.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "56.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "82.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NjpwcmFkX21pY2g",
+    "patientId": "WA56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "73.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "77.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "0.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "14.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "77.0"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1NzpwcmFkX21pY2g",
+    "patientId": "WA57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "76.0"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "141.0"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "82.0"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "39.0"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "141.0"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1ODpwcmFkX21pY2g",
+    "patientId": "WA58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "59.0"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "94.0"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "1678.0"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "12.0"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "94.0"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E1OTpwcmFkX21pY2g",
+    "patientId": "WA59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "AGE",
+    "value": "62.0"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_MONTHS",
+    "value": "129.0"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "OS_STATUS",
+    "value": "1:DECEASED"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SERUM_PSA",
+    "value": "658.0"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SEX",
+    "value": "Male"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_CHEMOTHERAPY",
+    "value": "32.0"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SURVIVAL_FROM_FIRST_HORMONE_THERAPY",
+    "value": "129.0"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_CHEMOTHERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_HORMONE_THERAPY",
+    "value": "Yes"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PALLIATIVE_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_PROSTATECTOMY",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "V0E2MDpwcmFkX21pY2g",
+    "patientId": "WA60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "TREATMENT_RADIATION",
+    "value": "No"
+  },
+  {
+    "uniquePatientKey": "VDY2OnByYWRfbWljaA",
+    "patientId": "T66",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDYxOnByYWRfbWljaA",
+    "patientId": "T61",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDc1OnByYWRfbWljaA",
+    "patientId": "T75",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQ2OnByYWRfbWljaA",
+    "patientId": "T46",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDczOnByYWRfbWljaA",
+    "patientId": "T73",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDcwOnByYWRfbWljaA",
+    "patientId": "T70",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDE3OnByYWRfbWljaA",
+    "patientId": "T17",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDEwOnByYWRfbWljaA",
+    "patientId": "T10",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDExOnByYWRfbWljaA",
+    "patientId": "T11",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDM5OnByYWRfbWljaA",
+    "patientId": "T39",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDM3OnByYWRfbWljaA",
+    "patientId": "T37",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDYyOnByYWRfbWljaA",
+    "patientId": "T62",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDE5OnByYWRfbWljaA",
+    "patientId": "T19",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDMxOnByYWRfbWljaA",
+    "patientId": "T31",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU4OnByYWRfbWljaA",
+    "patientId": "T58",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU5OnByYWRfbWljaA",
+    "patientId": "T59",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDUwOnByYWRfbWljaA",
+    "patientId": "T50",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDUxOnByYWRfbWljaA",
+    "patientId": "T51",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDUyOnByYWRfbWljaA",
+    "patientId": "T52",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDUzOnByYWRfbWljaA",
+    "patientId": "T53",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU0OnByYWRfbWljaA",
+    "patientId": "T54",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU1OnByYWRfbWljaA",
+    "patientId": "T55",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU2OnByYWRfbWljaA",
+    "patientId": "T56",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU3OnByYWRfbWljaA",
+    "patientId": "T57",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDYzOnByYWRfbWljaA",
+    "patientId": "T63",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E2OnByYWRfbWljaA",
+    "patientId": "WA6",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E1OnByYWRfbWljaA",
+    "patientId": "WA5",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0E0OnByYWRfbWljaA",
+    "patientId": "WA4",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "V0EyOnByYWRfbWljaA",
+    "patientId": "WA2",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDY6cHJhZF9taWNo",
+    "patientId": "T6",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDc6cHJhZF9taWNo",
+    "patientId": "T7",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDU6cHJhZF9taWNo",
+    "patientId": "T5",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDM6cHJhZF9taWNo",
+    "patientId": "T3",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDE6cHJhZF9taWNo",
+    "patientId": "T1",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDI5OnByYWRfbWljaA",
+    "patientId": "T29",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDYwOnByYWRfbWljaA",
+    "patientId": "T60",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDIxOnByYWRfbWljaA",
+    "patientId": "T21",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDIwOnByYWRfbWljaA",
+    "patientId": "T20",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDI1OnByYWRfbWljaA",
+    "patientId": "T25",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDI0OnByYWRfbWljaA",
+    "patientId": "T24",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDI3OnByYWRfbWljaA",
+    "patientId": "T27",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDI2OnByYWRfbWljaA",
+    "patientId": "T26",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDY3OnByYWRfbWljaA",
+    "patientId": "T67",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQ5OnByYWRfbWljaA",
+    "patientId": "T49",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQ4OnByYWRfbWljaA",
+    "patientId": "T48",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDY5OnByYWRfbWljaA",
+    "patientId": "T69",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDY4OnByYWRfbWljaA",
+    "patientId": "T68",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQzOnByYWRfbWljaA",
+    "patientId": "T43",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQyOnByYWRfbWljaA",
+    "patientId": "T42",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQxOnByYWRfbWljaA",
+    "patientId": "T41",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQwOnByYWRfbWljaA",
+    "patientId": "T40",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQ3OnByYWRfbWljaA",
+    "patientId": "T47",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDlhOnByYWRfbWljaA",
+    "patientId": "T9a",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQ1OnByYWRfbWljaA",
+    "patientId": "T45",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDQ0OnByYWRfbWljaA",
+    "patientId": "T44",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDY1OnByYWRfbWljaA",
+    "patientId": "T65",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDY0OnByYWRfbWljaA",
+    "patientId": "T64",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDg1OnByYWRfbWljaA",
+    "patientId": "T85",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDgzOnByYWRfbWljaA",
+    "patientId": "T83",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  },
+  {
+    "uniquePatientKey": "VDgyOnByYWRfbWljaA",
+    "patientId": "T82",
+    "studyId": "prad_mich",
+    "clinicalAttributeId": "SAMPLE_COUNT",
+    "value": "1"
+  }
+]

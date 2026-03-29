@@ -1,0 +1,433 @@
+uniquePatientKey,patient_id,studyId,attribute_id,value
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,AGE,84
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,CHEMOTHERAPY,Mitoxantrone
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,NUMBER_OF_TUMORS,4
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,PSA,129
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,SAMPLE_COUNT,4
+MDAtMDEwOnByYWRfZmhjcmM,00-010,prad_fhcrc,SEX,Male
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,AGE,84
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,CHEMOTHERAPY,None
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,NUMBER_OF_TUMORS,5
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,PSA,2039
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,SAMPLE_COUNT,5
+MDAtMDI5OnByYWRfZmhjcmM,00-029,prad_fhcrc,SEX,Male
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,AGE,70
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Estramustine"
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,NUMBER_OF_TUMORS,3
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,PSA,325
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,SAMPLE_COUNT,3
+MDAtMDkwOnByYWRfZmhjcmM,00-090,prad_fhcrc,SEX,Male
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,AGE,60
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,CHEMOTHERAPY,Mitoxantrone
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,NUMBER_OF_TUMORS,6
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,PSA,733
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,SAMPLE_COUNT,6
+MDAtMTQwOnByYWRfZmhjcmM,00-140,prad_fhcrc,SEX,Male
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,AGE,47
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,CHEMOTHERAPY,None
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,PSA,202
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,SAMPLE_COUNT,1
+MDEtMDAyOnByYWRfZmhjcmM,01-002,prad_fhcrc,SEX,Male
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,AGE,71
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Mitoxantrone"
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,PSA,701
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,SAMPLE_COUNT,2
+MDEtMDg3OnByYWRfZmhjcmM,01-087,prad_fhcrc,SEX,Male
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,AGE,72
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,PSA,106
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,SAMPLE_COUNT,2
+MDEtMDk1OnByYWRfZmhjcmM,01-095,prad_fhcrc,SEX,Male
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,AGE,63
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Mitoxantrone"
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,PSA,3919
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,SAMPLE_COUNT,2
+MDEtMTIwOnByYWRfZmhjcmM,01-120,prad_fhcrc,SEX,Male
+MDEtMTgxOnByYWRfZmhjcmM,01-181,prad_fhcrc,AGE,90
+MDEtMTgxOnByYWRfZmhjcmM,01-181,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDEtMTgxOnByYWRfZmhjcmM,01-181,prad_fhcrc,SAMPLE_COUNT,1
+MDEtMTgxOnByYWRfZmhjcmM,01-181,prad_fhcrc,SEX,Male
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,AGE,70
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,NUMBER_OF_TUMORS,4
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,PSA,104
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,SAMPLE_COUNT,4
+MDItMDY1OnByYWRfZmhjcmM,02-065,prad_fhcrc,SEX,Male
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,AGE,72
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,PSA,844
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,SAMPLE_COUNT,2
+MDItMDgzOnByYWRfZmhjcmM,02-083,prad_fhcrc,SEX,Male
+MDItMTQyOnByYWRfZmhjcmM,02-142,prad_fhcrc,AGE,86
+MDItMTQyOnByYWRfZmhjcmM,02-142,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Mitoxantrone"
+MDItMTQyOnByYWRfZmhjcmM,02-142,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDItMTQyOnByYWRfZmhjcmM,02-142,prad_fhcrc,PSA,413
+MDItMTQyOnByYWRfZmhjcmM,02-142,prad_fhcrc,SAMPLE_COUNT,1
+MDItMTQyOnByYWRfZmhjcmM,02-142,prad_fhcrc,SEX,Male
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,AGE,73
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,PSA,290
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,SAMPLE_COUNT,2
+MDMtMDI3OnByYWRfZmhjcmM,03-027,prad_fhcrc,SEX,Male
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,AGE,83
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,CHEMOTHERAPY,None
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,PSA,31
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,SAMPLE_COUNT,1
+MDMtMDgxOnByYWRfZmhjcmM,03-081,prad_fhcrc,SEX,Male
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,AGE,63
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,NUMBER_OF_TUMORS,3
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,PSA,264
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,SAMPLE_COUNT,3
+MDMtMDgyOnByYWRfZmhjcmM,03-082,prad_fhcrc,SEX,Male
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,AGE,65
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,PSA,106
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,SAMPLE_COUNT,2
+MDMtMTMwOnByYWRfZmhjcmM,03-130,prad_fhcrc,SEX,Male
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,AGE,86
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,PSA,722
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,SAMPLE_COUNT,2
+MDMtMTM5OnByYWRfZmhjcmM,03-139,prad_fhcrc,SEX,Male
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,AGE,58
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,PSA,0.5
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,SAMPLE_COUNT,1
+MDMtMTYzOnByYWRfZmhjcmM,03-163,prad_fhcrc,SEX,Male
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,AGE,73
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine"
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,NUMBER_OF_TUMORS,7
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,PSA,303
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,SAMPLE_COUNT,7
+MDMtMTkyOnByYWRfZmhjcmM,03-192,prad_fhcrc,SEX,Male
+MDQtMDUwOnByYWRfZmhjcmM,04-050,prad_fhcrc,AGE,86
+MDQtMDUwOnByYWRfZmhjcmM,04-050,prad_fhcrc,CHEMOTHERAPY,None
+MDQtMDUwOnByYWRfZmhjcmM,04-050,prad_fhcrc,NUMBER_OF_TUMORS,7
+MDQtMDUwOnByYWRfZmhjcmM,04-050,prad_fhcrc,PSA,1508
+MDQtMDUwOnByYWRfZmhjcmM,04-050,prad_fhcrc,SAMPLE_COUNT,7
+MDQtMDUwOnByYWRfZmhjcmM,04-050,prad_fhcrc,SEX,Male
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,AGE,81
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,CHEMOTHERAPY,None
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,NUMBER_OF_TUMORS,5
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,PSA,5.6
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,SAMPLE_COUNT,5
+MDQtMTAxOnByYWRfZmhjcmM,04-101,prad_fhcrc,SEX,Male
+MDQtMTEyOnByYWRfZmhjcmM,04-112,prad_fhcrc,AGE,67
+MDQtMTEyOnByYWRfZmhjcmM,04-112,prad_fhcrc,CHEMOTHERAPY,None
+MDQtMTEyOnByYWRfZmhjcmM,04-112,prad_fhcrc,NUMBER_OF_TUMORS,5
+MDQtMTEyOnByYWRfZmhjcmM,04-112,prad_fhcrc,PSA,0.7
+MDQtMTEyOnByYWRfZmhjcmM,04-112,prad_fhcrc,SAMPLE_COUNT,5
+MDQtMTEyOnByYWRfZmhjcmM,04-112,prad_fhcrc,SEX,Male
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,AGE,90
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,CHEMOTHERAPY,Mitoxantrone
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,PSA,1456
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,SAMPLE_COUNT,2
+MDQtMTQ5OnByYWRfZmhjcmM,04-149,prad_fhcrc,SEX,Male
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,AGE,83
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,CHEMOTHERAPY,Carboplatin
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,PSA,115
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,SAMPLE_COUNT,2
+MDUtMDExOnByYWRfZmhjcmM,05-011,prad_fhcrc,SEX,Male
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,AGE,81
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,CHEMOTHERAPY,Carboplatin
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,NUMBER_OF_TUMORS,5
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,PSA,1276
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,SAMPLE_COUNT,5
+MDUtMDkyOnByYWRfZmhjcmM,05-092,prad_fhcrc,SEX,Male
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,AGE,81
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,PSA,123
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,SAMPLE_COUNT,2
+MDUtMTE2OnByYWRfZmhjcmM,05-116,prad_fhcrc,SEX,Male
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,AGE,80
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,PSA,186
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,SAMPLE_COUNT,2
+MDUtMTIzOnByYWRfZmhjcmM,05-123,prad_fhcrc,SEX,Male
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,AGE,62
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,CHEMOTHERAPY,None
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,NUMBER_OF_TUMORS,13
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,PSA,0.2
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,SAMPLE_COUNT,13
+MDUtMTQ0OnByYWRfZmhjcmM,05-144,prad_fhcrc,SEX,Male
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,AGE,67
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Mitoxantrone"
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,PSA,454
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,SAMPLE_COUNT,1
+MDUtMTQ4OnByYWRfZmhjcmM,05-148,prad_fhcrc,SEX,Male
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,AGE,69
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,NUMBER_OF_TUMORS,3
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,PSA,96
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,SAMPLE_COUNT,3
+MDUtMTY1OnByYWRfZmhjcmM,05-165,prad_fhcrc,SEX,Male
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,AGE,60
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Mitoxantrone"
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,NUMBER_OF_TUMORS,3
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,PSA,621
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,SAMPLE_COUNT,3
+MDUtMTg3OnByYWRfZmhjcmM,05-187,prad_fhcrc,SEX,Male
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,AGE,70
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,NUMBER_OF_TUMORS,3
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,PSA,2018
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,SAMPLE_COUNT,3
+MDUtMjE0OnByYWRfZmhjcmM,05-214,prad_fhcrc,SEX,Male
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,AGE,72
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,CHEMOTHERAPY,None
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,NUMBER_OF_TUMORS,4
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,PSA,299
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,SAMPLE_COUNT,4
+MDUtMjE3OnByYWRfZmhjcmM,05-217,prad_fhcrc,SEX,Male
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,AGE,67
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,PSA,59
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,SAMPLE_COUNT,1
+MDUtMjIxOnByYWRfZmhjcmM,05-221,prad_fhcrc,SEX,Male
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,AGE,70
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,PSA,1493
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,SAMPLE_COUNT,2
+MDYtMDQ3OnByYWRfZmhjcmM,06-047,prad_fhcrc,SEX,Male
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,AGE,69
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Mitoxantrone"
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,NUMBER_OF_TUMORS,7
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,PSA,328
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,SAMPLE_COUNT,7
+MDYtMDgxOnByYWRfZmhjcmM,06-081,prad_fhcrc,SEX,Male
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,AGE,84
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,PSA,241
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,SAMPLE_COUNT,1
+MDYtMTI3OnByYWRfZmhjcmM,06-127,prad_fhcrc,SEX,Male
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,AGE,73
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Estramustine"
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,PSA,2512
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,SAMPLE_COUNT,1
+MDYtMTMxOnByYWRfZmhjcmM,06-131,prad_fhcrc,SEX,Male
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,AGE,73
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,PSA,56
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,SAMPLE_COUNT,1
+MDYtMTM0OnByYWRfZmhjcmM,06-134,prad_fhcrc,SEX,Male
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,AGE,71
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,PSA,736
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,SAMPLE_COUNT,2
+MDctMDQyOnByYWRfZmhjcmM,07-042,prad_fhcrc,SEX,Male
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,AGE,73
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,PSA,2816
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,SAMPLE_COUNT,1
+MDctMDQ0OnByYWRfZmhjcmM,07-044,prad_fhcrc,SEX,Male
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,AGE,77
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Estramustine"
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,PSA,762
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,SAMPLE_COUNT,2
+MDctMDUwOnByYWRfZmhjcmM,07-050,prad_fhcrc,SEX,Male
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,AGE,82
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,PSA,2295
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,SAMPLE_COUNT,1
+MDctMDYyOnByYWRfZmhjcmM,07-062,prad_fhcrc,SEX,Male
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,AGE,64
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,NUMBER_OF_TUMORS,2
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,PSA,3869
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,SAMPLE_COUNT,2
+MDgtMDA2OnByYWRfZmhjcmM,08-006,prad_fhcrc,SEX,Male
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,AGE,76
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin,Mitoxantrone"
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,NUMBER_OF_TUMORS,4
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,PSA,5691
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,SAMPLE_COUNT,4
+MDgtMDIwOnByYWRfZmhjcmM,08-020,prad_fhcrc,SEX,Male
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,AGE,77
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,PSA,3700
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,SAMPLE_COUNT,1
+MDgtMDM3OnByYWRfZmhjcmM,08-037,prad_fhcrc,SEX,Male
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,AGE,61
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,PSA,254
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,SAMPLE_COUNT,1
+MDgtMDkzOnByYWRfZmhjcmM,08-093,prad_fhcrc,SEX,Male
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,AGE,73
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,CHEMOTHERAPY,None
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,NUMBER_OF_TUMORS,1
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,PSA,<0.03
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,SAMPLE_COUNT,1
+MDktMDA2OnByYWRfZmhjcmM,09-006,prad_fhcrc,SEX,Male
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,AGE,62
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,CHEMOTHERAPY,"Carboplatin,Mitoxantrone"
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,NUMBER_OF_TUMORS,3
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,PSA,967
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,SAMPLE_COUNT,3
+MTAtMDEzOnByYWRfZmhjcmM,10-013,prad_fhcrc,SEX,Male
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,AGE,93
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,CHEMOTHERAPY,Docetaxel
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,NUMBER_OF_TUMORS,1
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,PSA,349
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,SAMPLE_COUNT,1
+MTAtMDM5OnByYWRfZmhjcmM,10-039,prad_fhcrc,SEX,Male
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,AGE,57
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,CHEMOTHERAPY,Carboplatin
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,NUMBER_OF_TUMORS,2
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,PSA,0
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,SAMPLE_COUNT,2
+MTEtMDI4OnByYWRfZmhjcmM,11-028,prad_fhcrc,SEX,Male
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,AGE,77
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,NUMBER_OF_TUMORS,2
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,PSA,1182
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,SAMPLE_COUNT,2
+MTItMDA1OnByYWRfZmhjcmM,12-005,prad_fhcrc,SEX,Male
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,AGE,61
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,CHEMOTHERAPY,None
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,NUMBER_OF_TUMORS,3
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,PSA,31
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,SAMPLE_COUNT,3
+MTItMDExOnByYWRfZmhjcmM,12-011,prad_fhcrc,SEX,Male
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,AGE,74
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Carboplatin"
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,NUMBER_OF_TUMORS,1
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,PSA,2
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,SAMPLE_COUNT,1
+MTItMDIxOnByYWRfZmhjcmM,12-021,prad_fhcrc,SEX,Male
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,AGE,64
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,CHEMOTHERAPY,None
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,NUMBER_OF_TUMORS,1
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,PSA,353
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,SAMPLE_COUNT,1
+OTctMTU5OnByYWRfZmhjcmM,97-159,prad_fhcrc,SEX,Male
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,AGE,72
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,CHEMOTHERAPY,None
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,NUMBER_OF_TUMORS,6
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,PSA,315
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,SAMPLE_COUNT,6
+OTctMjAxOnByYWRfZmhjcmM,97-201,prad_fhcrc,SEX,Male
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,AGE,58
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,NUMBER_OF_TUMORS,4
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,PSA,480
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,SAMPLE_COUNT,4
+OTgtMzI4OnByYWRfZmhjcmM,98-328,prad_fhcrc,SEX,Male
+OTgtMzYyOnByYWRfZmhjcmM,98-362,prad_fhcrc,AGE,74
+OTgtMzYyOnByYWRfZmhjcmM,98-362,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+OTgtMzYyOnByYWRfZmhjcmM,98-362,prad_fhcrc,NUMBER_OF_TUMORS,2
+OTgtMzYyOnByYWRfZmhjcmM,98-362,prad_fhcrc,SAMPLE_COUNT,2
+OTgtMzYyOnByYWRfZmhjcmM,98-362,prad_fhcrc,SEX,Male
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,AGE,74
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,CHEMOTHERAPY,None
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,NUMBER_OF_TUMORS,2
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,PSA,235
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,SAMPLE_COUNT,2
+OTgtMzcyOnByYWRfZmhjcmM,98-372,prad_fhcrc,SEX,Male
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,AGE,50
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,NUMBER_OF_TUMORS,3
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,PSA,762
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,SAMPLE_COUNT,2
+OTktMDY0OnByYWRfZmhjcmM,99-064,prad_fhcrc,SEX,Male
+OTktMDY5OnByYWRfZmhjcmM,99-069,prad_fhcrc,AGE,57
+OTktMDY5OnByYWRfZmhjcmM,99-069,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+OTktMDY5OnByYWRfZmhjcmM,99-069,prad_fhcrc,CHEMOTHERAPY,None
+OTktMDY5OnByYWRfZmhjcmM,99-069,prad_fhcrc,NUMBER_OF_TUMORS,2
+OTktMDY5OnByYWRfZmhjcmM,99-069,prad_fhcrc,SAMPLE_COUNT,3
+OTktMDY5OnByYWRfZmhjcmM,99-069,prad_fhcrc,SEX,Male
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,AGE,78
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,Orchiectomy
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,CHEMOTHERAPY,None
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,NUMBER_OF_TUMORS,1
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,PSA,1838
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,SAMPLE_COUNT,1
+OTktMDkwOnByYWRfZmhjcmM,99-090,prad_fhcrc,SEX,Male
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,AGE,77
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,ANDROGEN_DEPRIVATION_THERAPY,LHRH agonist
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,CHEMOTHERAPY,"Docetaxel,Estramustine,Mitoxantrone"
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,NUMBER_OF_TUMORS,7
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,PSA,2831
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,SAMPLE_COUNT,7
+OTktMDkxOnByYWRfZmhjcmM,99-091,prad_fhcrc,SEX,Male
